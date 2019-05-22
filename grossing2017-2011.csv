@@ -1,0 +1,894 @@
+colocação,título_brasileiro,título_original,distribuidora,renda,publico,salas_abertura,estreia
+1,Velozes e furiosos 8,The Fate of the Furious,Universal,133420000,8504737,1512,2017-04-13
+2,Liga da Justiça,Justice league,Warner,131218000,8416544,1582,2017-11-16
+3,A Bela e a Fera,Beauty and the Beast,Disney,130098000,8309801,1399,2017-03-16
+4,Meu malvado favorito 3,Despicable me 3,Universal,126007000,8996130,1319,2017-06-29
+5,Mulher-Maravilha,Wonder Woman,Warner,109700000,7053736,1287,2017-01-06
+6,Homem-Aranha: De volta ao lar,Spider-man - Homecoming,Sony,102686000,6715848,1546,2017-06-07
+7,Thor: Ragnarok,Thor: Ragnarok,Disney,99924700,6371808,1565,2017-10-26
+8,Logan,Logan,Fox,91226300,6439753,1288,2017-02-03
+9,Minha mãe é uma peça 2,Minha mãe é uma peça 2,DTF/Paris,89279600,6566550,1231,2016-12-22
+10,A cabana,The Shack,Paris,74712700,5102909,843,2017-06-04
+11,Moana - Um mar de aventuras,Moana,Disney,71610700,5149077,1211,2017-05-01
+12,Guardiões da Galáxia 2,The Guardians of the Galaxy 2,Disney,67539800,4208491,1312,2017-04-27
+13,Cinquenta tons mais escuros,Fifty shades darker,Universal,66570600,4628938,1532,2017-09-02
+14,It - A coisa,It,Warner,62061000,4451312,863,2017-07-09
+15,Piratas do Caribe - A vingança de Salazar,Pirates of the Caribbean: Dead men tell no tales,Disney,55003600,3659969,1400,2017-05-25
+16,Star Wars - Os últimos jedi,Star Wars - The last jedi,Disney,53243900,2954229,1641,2017-12-14
+17,Extraordinário,Wonder,Paris,52893500,3787134,878,2017-07-12
+18,A múmia,The mummy,Universal,47432100,3054033,1102,2017-08-06
+19,O poderoso chefinho,The boss baby,Fox,46194000,3240436,898,2017-03-30
+20,Planeta dos macacos - A guerra,War for the Planet of the Apes,Fox,43032400,2718820,1167,2017-03-08
+21,Transformers: O último cavaleiro,Transformers: The last knight,Paramount,42714800,2853206,1145,2017-07-20
+22,Annabelle 2 - A criação do mal,Annabelle 2,Warner,40566100,2980561,1255,2017-08-17
+23,Carros 3,Cars 3,Disney,34554900,2527185,1156,2017-07-13
+24,Assassin's Creed,Assassin's Creed,Fox,32695500,2071518,902,2017-12-01
+25,Kong - A ilha da caveira,Kong - Skull Island,Warner,29349300,1920063,906,2017-09-03
+26,A grande muralha,The Great Wall,Universal,27179500,1717210,814,2017-02-23
+27,Emoji - O filme,The Emoji Movie,Sony,23663300,1694482,854,2017-08-31
+28,La la Land - Cantando estações,La la Land,Paris,23583800,1383112,326,2017-01-19
+29,Passageiros,Passengers,Sony,22344200,1300496,676,2017-05-01
+30,Polícia Federal - A lei é para todos,Polícia Federal - A lei é para todos,DTF/Paris,21702400,1383878,794,2017-07-09
+31,Pica-Pau,Woody Woodpecker,Universal,21131000,1635280,728,2017-05-10
+32,O chamado 3,Rings,Paramount,20936100,1528477,611,2017-02-02
+33,Os Smurfs e a vila perdida,Smurfs: The lost village,Sony,20854100,1468260,872,2017-06-04
+34,Lego Batman,The Lego Batman Movie,Warner,19787000,1343347,777,2017-09-02
+35,xXx - Reativado,XXX - The return of Xander Cage,Paramount,19601900,1297093,783,2017-01-19
+36,Resident Evil 6 - O capítulo final,Resident Evil: The Final Chapter,Sony,18981100,1221571,699,2017-01-26
+37,Os parças,"Parças, Os",DTF/Paris,17665200,1305252,334,2017-11-30
+38,Blade runner 2049,Blade runner 2049,Sony,17090700,907145,723,2017-05-10
+39,Assassinato no Expresso do Oriente,Murder on the Orient Express,Fox,16738300,1005730,362,2017-11-30
+40,Kingsman - O círculo dourado,Kingsman: The golden circle,Fox,16424100,1032044,840,2017-09-28
+41,Detetives do prédio azul,Detetives do prédio azul,DTF/Paris,16085900,1219470,515,2017-07-20
+42,Power Rangers,Power Rangers,Paris,15851000,1233619,841,2017-03-23
+43,Rei Arthur - A lenda da espada,King Arthur - Legend of the sword,Warner,15499900,961626,867,2017-05-18
+44,Fragmentado,Split,Universal,15189800,1011384,615,2017-03-23
+45,Sing - Quem canta seus males espanta,Sing,Universal,15161200,1204542,999,2016-12-22
+46,Dunkirk,Dunkirk,Warner,14425100,794493,476,2017-07-27
+47,Tempestade - Planeta em fúria,Geostorm,Warner,14327700,914177,602,2017-10-19
+48,A morte te dá parabéns,Happy death day,Universal,13705800,1014940,557,2017-12-10
+49,A Torre Negra,The Dark Tower,Sony,12633900,906851,683,2017-08-24
+50,A Vigilante do Amanhã: Ghost in the shell,Ghost in the Shell,Paramount,12220900,736002,768,2017-03-30
+51,Alien: Covenant,Alien: Covenant,Fox,9602300,667624,849,2017-11-05
+52,Jogos mortais - Jigsaw,Jigsaw,Paris,9435770,630785,514,2017-11-30
+53,Em ritmo de fuga,Baby Driver,Sony,9015990,590987,402,2017-07-27
+54,Feito na América,American made,Universal,8985670,554772,534,2017-09-14
+55,Meus 15 anos,Meus 15 anos,DTF/Paris,8966650,739726,590,2017-06-22
+56,Beleza oculta,Collateral beauty,Warner,8904940,512613,271,2017-01-26
+57,Rogue One - Uma história Star Wars,Rogue One: A Star Wars Story,Disney,8870690,536160,1379,2016-12-15
+58,Baywatch - S.O.S. Malibu,Baywatch,Paramount,8763480,654988,446,2017-06-15
+59,Aventuras do Capitão Cueca - O filme,Captain underpants: The First Epic Movie,Fox,8633560,571543,582,2017-12-10
+60,O circulo,The Circle,Imagem,8317840,475257,413,2017-06-22
+61,Mãe!,"mother!,",Paramount,8166980,517179,332,2017-09-21
+62,"Fala sério, mãe!","Fala sério, mãe!",DTF/Paris,8090740,599579,681,2017-12-28
+63,Um tio quase perfeito,"Tio quase perfeito, Um",H2O Films,7995480,579232,311,2017-06-15
+64,Valerian e a cidade dos mil planetas,Valerian and the city of a thousand planets,Diamond Films,7825960,509391,833,2017-10-08
+65,Depois daquela montanha,The mountain between us,Fox,7752210,443258,247,2017-02-11
+66,John Wick 2 - Um novo dia para matar,John Wick 2,Paris,7747380,550981,372,2017-02-16
+67,A bailarina,Ballerina,Paris,7617960,546984,463,2017-01-26
+68,Quatro vidas de um cachorro,A dog's purpose,Universal,6870970,513291,419,2017-01-26
+69,Eu fico loko,Eu fico loko,DTF/Paris,6818450,556352,618,2017-12-01
+70,Como se tornar o pior aluno da escola,Como se tornar o pior aluno da escola,DTF/Paris,6794380,501862,356,2017-12-10
+71,Aliados,allied,Paramount,6621390,394964,269,2017-02-16
+72,Estrelas além do tempo,Hidden figures,Fox,6612580,399373,271,2017-02-02
+73,Divórcio,Divórcio,Warner,6584550,497713,577,2017-09-21
+74,Pai em dose dupla 2,Daddy's home 2,Paramount,6198120,450655,470,2017-11-23
+75,A estrela de Belém,The star,Sony,5912030,478929,438,2017-11-30
+76,Moonlight - Sob a luz do luar,Moonlight,Diamond Films,5851280,341969,63,2017-02-23
+77,Atômica,Atomic blonde,Universal,5831110,376446,502,2017-08-31
+78,Corra!,Get Out,Universal,5672670,382879,444,2017-05-18
+79,Os penetras 2 - Quem dá mais?,"Penetras 2 - Quem dá mais?, Os",H2O/Universal,5614830,404875,444,2017-01-19
+80,Vida,Life,Sony,5330410,313426,262,2017-04-20
+81,Internet - o filme,Internet - o filme,DTF/Paris,4911240,379103,414,2017-02-23
+82,Lego Ninjago - O filme,The Lego Ninjago movie,Warner,4869560,337005,713,2017-09-28
+83,Até o último homem,Hacksaw ridge,Diamond Films,4867210,274802,121,2017-01-26
+84,Monster Trucks,Monster Trucks,Paramount,4553700,340323,493,2017-02-23
+85,O rei do show,The greatest showman,Fox,4508650,284453,462,2017-12-25
+86,A noiva,Hebecta,Paris,4364290,314444,271,2017-02-11
+87,O filme da minha vida,"Filme da minha vida, O",Vitrine,4351370,284968,253,2017-03-08
+88,Lino - O filme,Lino - O filme,Fox,4349910,318233,446,2017-07-09
+89,"Big pai, big filho",The son of bigfoot,Imagem,4249740,313965,424,2017-02-11
+90,Bingo - O rei das manhãs,Bingo - O rei das manhãs,Warner,4032760,261153,400,2017-08-24
+91,Duas de mim,Duas de mim,DTF/Paris,3903210,290627,280,2017-09-28
+92,Lion - Uma jornada para casa,Lion,Diamond Films,3697240,208822,114,2017-02-16
+93,Invasão Zumbi,Train to busan,Paris,3639140,290078,384,2016-12-29
+94,Dupla Explosiva,The Hitman's Bodyguard,California,3577890,244358,389,2017-08-31
+95,Jumanji: Bem-vindo à selva,Jumanji - Welcome to the jungle,Sony,3452600,211434,935,2018-04-01
+96,As aventuras de Tadeo 2 - O segredo do Rei Midas,Tadeo Jones 2 - El secreto del Rey Midas,Paramount,3438590,250671,518,2017-12-21
+97,7 desejos,Wish upon,Imagem,3433070,251496,352,2017-07-27
+98,Como nossos pais,Como nossos pais,Imovision,3428700,203878,129,2017-08-31
+99,"TOC - Transtornada, obsessiva, compulsiva","TOC - Transtornada, obsessiva, compulsiva",DTF/Paris,3357880,246183,306,2017-02-02
+100,Além da morte,Flatliners,Sony,3184540,242171,435,2017-10-19
+101,A autópsia,The Autopsy of Jane Doe,Diamond Films,2981190,211941,252,2017-04-05
+102,Antes que eu vá,Before I fall,Paris,2822880,189500,267,2017-05-18
+103,Ninguém entra ninguém sai,Ninguém entra ninguém sai,Imagem,2649630,199567,396,2017-04-05
+104,As aventuras de Ozzy,Ozzy,Playarte,2493910,183254,259,2017-01-06
+105,Gosto se discute,Gosto se discute,Imagem,2426930,174421,345,2017-09-11
+106,Despedida em grande estilo,Going in style,Warner,2338770,133139,125,2017-06-04
+107,Assassino - O primeiro alvo,American Assassin,Paris,2314960,167953,300,2017-09-21
+108,Paris pode esperar,Paris Can Wait,California,2248680,117638,47,2017-08-06
+109,Amityville - o despertar,Amityville,Paris,2225980,173238,294,2017-09-14
+110,Chocante,Chocante,Imagem,2205120,158103,478,2017-05-10
+111,Victoria e Abdul - O confidente da rainha,Victoria and Abdul,Universal,2180170,109203,62,2017-11-16
+112,Dominação,Incarnate,Playarte,2058990,143460,223,2017-05-01
+113,Uma família feliz,Happy Family,Paris,2049130,148054,356,2017-08-17
+114,Manchester à beira-mar,Manchester by the sea,Sony,1814370,102141,25,2017-01-19
+115,O estranho que nós amamos,The Beguiled,Universal,1806810,100840,74,2017-10-08
+116,My little pony - O filme,My little pony - the movie,Paris,1788240,134266,405,2017-05-10
+117,Tudo e todas as coisas,"Everything, Everything",Warner,1719540,126276,244,2017-06-15
+118,Animais noturnos,Nocturnal animals,Universal,1675080,93610,67,2016-12-29
+119,"João, o maestro","João, o maestro",Sony,1629460,94812,95,2017-08-17
+120,O Reino Gelado: Fogo e gelo,Snezhnaya koroleva 3. Ogon i led,California,1593640,125679,256,2017-10-08
+121,Neve negra,Nieve negra,Paris,1579060,86301,66,2017-08-06
+122,Um limite entre nós,Fences,Paramount,1576140,87013,47,2017-02-03
+123,Uma família de dois,Demain tout commence,Paris,1562190,91356,105,2017-06-29
+124,Malasartes e o duelo com a morte,Malasartes e o duelo com a morte,DTF/Paris,1539770,114111,351,2017-10-08
+125,Bugigangue no espaço,Bugigangue no espaço,Imagem,1535680,113928,246,2017-02-23
+126,Sully - O herói do rio Hudson,Sully,Warner,1535650,79249,264,2016-12-15
+127,Monsieur & Madame Adelman,Monsieur & Madame Adelman,Imovision,1526560,91320,22,2017-07-20
+128,Em defesa de Cristo,The Case for Christ,California,1515630,120661,72,2017-09-14
+129,Jackie,Jackie,Diamond Films,1510200,82726,59,2017-02-02
+130,A cura,A Cure for Wellness,Fox,1473430,107471,203,2017-02-16
+131,Rock Dog - No faro do sucesso,Rock dog,Paris,1443740,106510,323,2017-04-05
+132,"Eu, Daniel Blake","I, Daniel Blake",Imovision,1404010,91545,24,2017-05-01
+133,O que será de nozes 2,The Nut Job 2: Nutty by nature,Diamond Films,1398480,110551,226,2017-09-14
+134,O cidadão ilustre,El ciudadano ilustre,Cineart Filmes,1277530,80561,64,2017-11-05
+135,Capitão fantástico,Captain fantastic,Universal,1269040,73934,46,2016-12-22
+136,Fome de poder,The founder,Diamond Films,1237020,65084,114,2017-09-03
+137,O dia do atentado,Patriots day,Paris,1203660,64421,131,2017-11-05
+138,Silêncio,Silence,Imagem,1199040,70422,121,2017-09-03
+139,"Gostosas, lindas e sexies","Gostosas, lindas e sexies",DTF/Paris,1191140,84865,174,2017-04-20
+140,O rastro,"Rastro, O",Imagem,1187520,90486,327,2017-05-18
+141,Saltimbancos Trapalhões,Saltimbancos Trapalhões,DTF/Paris,1160900,96442,197,2017-01-19
+142,Amor.com,Amor.com,H2O Films,1156480,88093,321,2017-01-06
+143,Diário de um banana - Caindo na estrada,Diary of a wimpy kid - The long haul,Fox,1122630,76969,82,2017-10-08
+144,Norman - Confie em mim,Norman: The moderate rise and tragic fall of a New York fixer,California,1106340,55540,67,2017-04-05
+145,"Com amor, Van Gogh",Loving Vicent,Europa,1096220,68964,36,2017-11-30
+146,O vendedor de sonhos,"Vendedor de sonhos, O",Warner,986151,80071,384,2016-08-12
+147,Boneco de neve,The snowman,Universal,948575,45187,39,2017-11-23
+148,Missão cegonha,Richard the stork,Playarte,944759,71162,196,2017-10-26
+149,A qualquer custo,Hell or High Water,California,935254,54016,53,2017-02-02
+150,Entre irmãs,Entre irmãs,Sony,930632,58194,99,2017-12-10
+3,Minions,Minions,Universal,119801000,8921138,1137,2015-06-25
+4,Jurassic World - O mundo dos dinossauros,Jurassic World,Universal,90700000,6380062,1056,2015-11-06
+5,Cinquenta tons de cinza,Fifty Shades of Grey,Universal,87570600,6686340,1199,2015-12-02
+6,Star Wars: Episódio VII - O despertar da força,Star Wars: Episode VII,Disney,74167600,4589744,1504,2015-12-17
+7,Jogos Vorazes: A esperança - O final,The Hunger Games - Mockinjay Part 2,Paris,62923300,4344687,1274,2015-11-19
+8,Cinderela,Cinderella,Disney,50086600,4200863,927,2015-03-26
+9,Bob Esponja - Um herói fora d´água,Sponge Bob Square Pants 2,Paramount,47957700,3719937,796,2015-05-02
+10,Loucas pra casar,Loucas pra casar,DTF/Paris,45888600,3779702,605,2015-08-01
+11,Divertida mente,The Inside Out,Disney,45751400,3783023,877,2015-06-18
+12,Vai que cola - O filme,Vai que cola - O filme,H2O Films,41910200,3317275,637,2015-01-10
+13,Hotel Transilvânia 2,Hotel Transylvania 2,Sony,41867700,3277987,1050,2015-09-24
+14,Homem-Formiga,Ant-Man,Disney,41765000,2948436,857,2015-07-16
+15,Os pinguins de Madagascar,The Penguins of Madagascar,Fox,40465400,3132245,889,2015-01-15
+16,Êxodo - Deuses e reis,Exodus - Gods and Kings,Fox,39248000,4183636,932,2014-12-25
+17,A série Divergente - Insurgente,Insurgent,Paris,39052200,2817855,836,2015-03-19
+18,Missão impossível - Nação secreta,Mission: Impossible 5 - Rogue Nation,Paramount,37066500,2720209,953,2015-08-13
+19,O exterminador do futuro - Gênesis,Terminator: Genisys,Paramount,36430400,2471668,1013,2015-02-07
+20,O último caçador de bruxas,The last witch hunter,Paris,34508400,2662157,807,2015-10-29
+21,Pixels,Pixels,Sony,33704400,2360929,794,2015-07-23
+22,Mad Max - Estrada da fúria,Mad Max - Fury Road,Warner,33383300,2266099,980,2015-05-14
+23,Meu passado me condena 2,Meu passado me condena 2,DTF/Paris,32972900,2649304,612,2015-02-07
+24,Terremoto - A falha de San Andreas,San Andreas,Warner,32785200,2248698,912,2015-05-28
+25,007 contra Spectre,Spectre,Sony,31691500,2119691,991,2015-05-11
+26,Uma noite no museu 3,Night at the Museum: Secret of the Tomb,Fox,30914200,2708391,617,2015-01-01
+27,Perdido em Marte,The Martian,Fox,29027600,1810450,653,2015-01-10
+28,O pequeno príncipe,Le petit prince,Paris,28149700,2082556,538,2015-08-20
+29,"Carrossel, o filme","Carrossel, o filme",DTF/Paris,27335700,2549410,607,2015-07-23
+30,Maze Runner - Prova de fogo,Maze Runner - Scorch Trials,Fox,27285400,2003354,898,2015-09-17
+31,Peter Pan,Pan,Warner,26578700,1883218,867,2015-08-10
+32,Cada um na sua casa,Home,Fox,23142300,1803708,666,2015-09-04
+33,Quarteto fantástico,The Fantastic Four,Fox,22015000,1794082,897,2015-06-08
+34,Atividade paranormal 5 - Dimensão fantasma,Paranormal Activity: The Ghost Dimension,Paramount,20424800,1378831,616,2015-10-22
+35,Operação Big Hero,Big Hero 6,Disney,20312000,2762285,917,2014-12-25
+36,S.O.S Mulheres ao mar 2,S.O.S Mulheres ao mar 2,Univ/Eur/Elo,19790700,1574922,453,2015-10-22
+37,Cidades de papel,Paper towns,Fox,19294000,1622878,662,2015-09-07
+38,Busca Implacável 3,Taken 3,Fox,19149100,1483062,429,2015-01-22
+39,O destino de Júpiter,Jupiter Ascending,Warner,17161700,1246353,543,2015-05-02
+40,Alvin e os esquilos - Na estrada,Alvin and the Chipmunks 4,Fox,17117600,1511868,920,2015-12-24
+41,Poltergeist - O fenômeno,Poltergeist,Fox,17105300,1246442,642,2015-05-21
+42,Sniper americano,American Sniper,Warner,16821900,1175102,203,2015-02-19
+43,Golpe duplo,Focus,Warner,16466200,1304636,674,2015-12-03
+44,No coração do mar,In the Heart of the Sea,Warner,15312700,1015377,580,2015-03-12
+45,Os caras de pau em o misterioso roubo do anel,"Caras de pau em o misterioso roubo do anel, Os",Imagem,14758200,1915491,521,2014-12-25
+46,Linda de morrer,Linda de morrer,Fox,12476400,975142,525,2015-08-20
+47,Kingsman - Serviço secreto,Kingsmen: The Secret Service,Fox,11587900,894078,439,2015-05-03
+48,Até que a sorte nos separe 3,Até que a sorte nos separe 3,DTF/Paris,11499300,925189,818,2015-12-24
+49,A teoria de tudo,The Theory Of Everything,Universal,11294100,768404,62,2015-01-29
+50,Qualquer gato vira lata 2,Qualquer gato vira lata 2,DTF/Paris,10020700,809534,548,2015-04-06
+51,Ted 2,Ted 2,Universal,9454910,745286,556,2015-08-27
+52,Tomorrowland - Um lugar onde nada é impossível,Tomorrowland,Disney,8852650,683695,476,2015-04-06
+53,Um senhor estagiário,The Intern,Warner,8807510,602036,289,2015-09-24
+54,Victor Frankenstein,Victor Frankenstein,Fox,8517830,686690,412,2015-11-26
+55,Tinkerbell e o monstro da Terra do Nunca,TinkerBell and the Legend of the Never Beast,Disney,8406990,611466,447,2015-02-26
+56,O jogo da imitação,The Imitation Game,Diamond,7939790,553521,188,2015-05-02
+57,Sobrenatural - A origem,Insidious: Chapter 3,Sony,7780070,626989,414,2015-07-30
+58,A entidade 2,Sinister 2,Paris,7297730,572684,291,2015-03-09
+59,O hobbit - A batalha dos cinco exércitos,The Hobbit - The Battle of the Five Armies,Warner,7248010,3678140,1043,2014-11-12
+60,Evereste,Everest,Universal,7220040,426273,398,2015-09-24
+61,Goosebumps - Monstros e arrepios,Goosebumps,Sony,7143490,517199,481,2015-10-22
+62,O sétimo filho,The Seventh Son,Universal,7080200,504333,317,2015-12-03
+63,Ponte dos espiões,Bridge of spies,Fox,7033380,424001,255,2015-10-22
+64,Bem casados,Bem casados,Imagem,6966820,553537,445,2015-03-12
+65,Que horas ela volta?,Que horas ela volta?,Pandora,6675440,478859,82,2015-08-27
+66,Birdman ou a inesperada virtude da ignorância,Birdman,Fox,6490480,421973,82,2015-01-29
+67,Férias frustradas,Vacation,Warner,6219450,504327,412,2015-10-09
+68,Para sempre Alice,Still Alice,Diamond,6075830,408152,211,2015-12-03
+69,Simplesmente acontece,"Love, Rosie",Imagem,5882600,493861,305,2015-05-03
+70,Entre abelhas,Entre abelhas,Imagem,5822430,452082,344,2015-04-30
+71,Corações de ferro,Fury,Sony,5792190,440373,233,2015-05-02
+72,O agente da U.N.C.L.E,The Man from U.N.C.L.E,Warner,5596540,393533,445,2015-03-09
+73,Renascida do inferno,The Lazarus Effect,Paris,5462770,445963,300,2015-05-03
+74,A espiã que sabia de menos,Spy,Fox,5202520,416769,308,2015-04-06
+75,Superpai,Superpai,Universal,5171580,440933,357,2015-02-26
+76,Caminhos da floresta,Into the woods,Disney,5086020,389086,174,2015-01-29
+77,O reino gelado 2,Snow Queen 2,California,5040240,404111,346,2015-12-11
+78,Como sobreviver a um ataque zumbi,Scouts Guide to the Zombie Apocalypse,Paramount,4946320,398464,249,2015-12-11
+79,Pegando fogo,Burnt,Paris,4945880,329658,262,2015-10-12
+80,Chappie,Chappie,Sony,4505110,350606,284,2015-04-16
+81,Operações especiais,Operações especiais,DTF/Paris,4431610,360809,313,2015-10-15
+82,A mulher de preto 2 - Anjo da morte,The Woman in Black 2 - Angel of Death,Diamond,4353970,356637,316,2015-01-29
+83,Dragon Ball Z - O renascimento de Freeza,Dragon Ball Z: Resurrection,Fox,4100040,338507,343,2015-06-18
+84,Hitman - Agente 47,Hitman: Agent 47,Fox,4011410,314550,229,2015-08-27
+85,Trocando os pés,The Cobbler,Imagem,3940620,323410,338,2015-05-28
+86,A colina escarlate,Crimson Peak,Universal,3793620,267694,214,2015-10-15
+87,Quarto de guerra,War room,Canzion,3773090,295761,55,2015-03-12
+88,Você acredita?,Do You Believe?,California,3714010,314812,179,2015-03-09
+89,Invencível,Unbroken,Universal,3696600,244644,123,2015-01-15
+90,A casa dos mortos,Demonic,Paris,3694610,303198,176,2015-12-02
+91,Aliança do crime,Black Mass,Warner,3543570,220193,188,2015-12-11
+92,Noite sem fim,Run All Night,Warner,3542730,281319,318,2015-04-30
+93,Homem Irracional,Irrational Man,Imagem,3439600,199951,72,2015-08-27
+94,Exorcistas do Vaticano,The Vatican Tapes,Diamond,3199710,257140,191,2015-08-20
+95,Olhos da justiça,The secret in their eyes,Diamond,2997070,215625,304,2015-10-12
+96,Não olhe para trás,Danny Collins,Imagem,2885220,169421,127,2015-04-16
+97,A incrível história de Adaline,The Age of Adaline,Diamond,2882040,189134,220,2015-05-21
+98,Magic Mike XXL,Magic Mike XXL,Warner,2749840,204557,209,2015-07-30
+99,A travessia,The Walk,Sony,2625950,141231,257,2015-08-10
+100,Carga explosiva - O legado,The Transporter Refueled,California,2612200,205078,276,2015-10-09
+101,"Forca, A",Gallows,Warner,2593110,201860,158,2015-07-23
+102,"Visita, A",The visit,Universal,2555600,209948,222,2015-11-26
+103,Relatos Selvagens,Relatos Salvajes,Warner,2262380,471732,89,2014-10-23
+104,Samba,Samba,California,2119980,134278,66,2015-09-07
+105,Ricki and the Flash - De volta pra casa,Ricki and the Flash,Sony,2112880,119847,146,2015-03-09
+106,Jogada de mestre,Kidnapping Mr. Heineken,Imagem,2091860,109878,72,2015-07-30
+107,Que mal eu fiz a Deus?,Qu'est-e qu'on a fait a bon dieu?,Europa,2019590,106713,111,2015-06-08
+108,Divã a 2,Divã a 2,DTF/Paris,1986010,164987,315,2015-05-14
+109,O sal da Terra,Le Sel de La Terre,Imovision,1949140,133748,39,2015-03-26
+110,Jessabelle - O passado nunca morre,Jessabelle,Playarte,1811190,150625,207,2015-06-18
+111,Whiplash - Em busca da perfeição,Whiplash,Sony,1766640,115635,22,2015-08-01
+112,Ouija - O jogo dos espíritos,Ouija,H2O Films,1727820,514384,173,2014-11-12
+113,O franco-atirador,The gunman,Paris,1706390,128882,280,2015-07-05
+114,Entrando numa roubada,Entrando numa roubada,Europa,1704320,138110,246,2015-03-09
+115,Uma longa jornada,The Longest Ride,Fox,1684220,119637,133,2015-04-30
+116,A dama dourada,Woman in Gold,Diamond,1624250,94392,49,2015-08-13
+117,Grace de Mônaco,Grace of Monaco,Playarte,1529460,88123,100,2015-10-29
+118,Sob o mesmo céu,Aloha,Fox,1482620,92419,137,2015-11-06
+119,A escolha perfeita 2,Pitch perfect 2,Universal,1460210,124201,214,2015-08-13
+120,A entrevista,The Interview,Sony,1445970,117045,160,2015-01-29
+121,A esperança é a última que morre,"Esperança é a última que morre, A",DTF/Paris,1434210,110831,131,2015-03-09
+122,Livre,Wild,Fox,1426110,90021,58,2015-01-15
+123,Chico - artista brasileiro,Chico - artista brasileiro,Sony,1395510,89589,52,2015-11-26
+124,"Shaun, o carneiro",Shaun the sheep,Universal,1387530,113640,312,2015-03-09
+125,Um santo vizinho,St. Vincent,Paris,1324110,96663,156,2015-02-19
+126,A possessão do mal,The Possession Of Michael King,Playarte,1299320,98849,133,2015-01-10
+127,O clã,El clan,Fox,1249170,77272,74,2015-10-12
+128,Terra de Maria,Mary`s land,Dist. Própria,1191440,85143,5,2015-12-11
+129,Risco Imediato,Good people,California,1164280,77819,117,2015-09-04
+130,Enquanto somos jovens,While We're Young,Mares,1133300,70865,54,2015-06-18
+131,O presente,The gift,Playarte,1118870,88910,246,2015-03-12
+132,O exótico Hotel Marigold 2,The Best exotic Marigold Hotel 2,Fox,1105020,66592,58,2015-07-05
+133,Grandes olhos,Big eyes,Paris,1064340,77261,69,2015-01-29
+134,Boyhood - Da infância à juventude,Boyhood,Universal,1060500,160066,11,2014-10-30
+135,Ida,Ida,Zeta Filmes,1055110,86990,6,2014-12-25
+136,O vendedor de passados,"Vendedor de passados, O",Imagem/Consp,1054750,83607,213,2015-05-21
+137,Os 33,Los 33,Fox,1049660,63145,96,2015-10-29
+138,Expresso do amanhã,Snowpiercer,Playarte,1035360,77837,161,2015-08-27
+139,A família Bélier,La Famille Bélier,Paris,1034980,89328,36,2014-12-25
+140,"Super velozes, mega furiosos",Superfast,Diamond,1018680,86611,243,2015-07-05
+141,O imperador,Outcast,Imagem,1017750,84120,104,2015-12-02
+142,O abutre,Nightcrawler,Diamond,1015800,120633,57,2014-12-18
+143,O garoto da casa ao lado,The boy next door,Universal,996596,78561,140,2015-03-26
+144,Minúsculos - O filme 3D,Minuscule - La Vallée des Fourmis Perdues,Paris,972971,74685,169,2015-01-22
+145,Annie,Annie,Sony,966105,84928,88,2015-12-02
+1,Malévola,Maleficent,Disney,"74.227.800,00",5795385,719,2014-05-29
+2,A culpa e das estrelas,The Fault in Our Stars,Fox,"70.124.600,00",6228678,791,2014-05-06
+3,Noé,Noah,Paramount,"67.875.500,00",4853264,1039,2014-03-04
+4,X-Men - Dias de um futuro esquecido,X-Men - Days of Future Past,Fox,"64.446.800,00",4921850,996,2014-05-22
+5,Rio 2,Rio 2,Fox,"64.052.700,00",5226854,1271,2014-03-27
+6,Capitão America - O soldado invernal,Captain America - The Winter Soldier,Disney,"63.087.900,00",4645909,1070,2014-10-04
+7,Transformers: A era da extinção,Transformers: Age of Extinction,Paramount,"60.932.600,00",4530701,1053,2014-07-17
+8,Jogos Vorazes: A esperança - Parte 1,The Hunger Games: Mockinjay - Part 1,Paris,"56.328.900,00",4808840,1339,2014-11-20
+9,Planeta dos macacos: O confronto,Dawn of the Planet of the Apes,Fox,"55.379.500,00",4105584,871,2014-07-24
+10,Como treinar o seu dragão 2,How to Train Your Dragon 2,Fox,"55.238.300,00",4632549,913,2014-06-19
+11,O espetacular Homem-Aranha 2: A ameaça de Electro,The Amazing Spider-Man 2: The Rise of Electro,Sony,"54.686.600,00",4082409,1139,2014-01-05
+12,Frozen - Uma aventura congelante,Frozen,Disney,"48.577.300,00",4030982,868,2014-03-01
+13,O Hobbit - A batalha dos cinco exércitos,The Hobbit - The Battle of the Five Armies,Warner,"44.559.100,00",3138777,1037,2014-11-12
+14,As tartarugas Ninja,Teenage Mutant Ninja Turtles,Paramount,"43.509.000,00",3358132,760,2014-08-14
+15,Annabelle,Annabelle,Warner,"41.852.000,00",3722242,388,2014-09-10
+16,300 - A ascensão do Imperio,300 - Rise of an Empire,Warner,"40.673.600,00",2850866,772,2014-07-03
+17,Guardioes da galáxia,Guardians of the Galaxy,Disney,"38.126.000,00",2870004,917,2014-07-31
+18,Até que a sorte nos separe 2,Até que a sorte nos separe 2,Downtown/Paris,"36.112.300,00",3202039,776,2013-12-27
+19,Débi & Lóide 2,Dumb and Dumber 2,Imagem,"35.894.900,00",3110100,667,2014-11-13
+20,RoboCop,RoboCop,Sony,"33.523.900,00",2834676,734,2014-02-21
+21,Hércules,Hercules,Paramount,"32.881.500,00",2437695,675,2014-04-09
+22,Drácula - A história nunca contada,Dracula Untold,Universal,"32.157.200,00",2725972,511,2014-10-23
+23,O candidato honesto,O candidato honesto,Downtown/Paris,"25.068.000,00",2298531,554,2014-02-10
+24,Os mercenários 3,The Expendables 3,California,"24.514.500,00",2116936,730,2014-08-21
+25,Êxodo - Deuses e reis,Exodus - Gods and Kings,Fox,"23.741.100,00",1571317,901,2014-12-25
+26,Juntos e misturados,Blended,Warner,"23.149.300,00",1983699,378,2014-07-17
+27,Lucy,Lucy,Universal,"21.764.700,00",1789100,350,2014-08-28
+28,Os homens sao de Marte... e é para lá que eu vou,Os homens sao de Marte... e é para lá que eu vou,Downtown/Paris,"21.630.100,00",1806937,465,2014-05-29
+29,S.O.S Mulheres ao mar,S.O.S Mulheres ao mar,Disney,"20.834.125,00",1788813,423,2014-03-20
+30,Godzilla,Godzilla,Warner,"18.031.000,00",1324900,741,2014-05-15
+31,Maze Runner - Correr ou morrer,The Maze Runner,Fox,"17.939.800,00",1565714,344,2014-09-18
+32,Interestelar,Interstellar,Warner,"17.032.600,00",1205685,425,2014-06-11
+33,A menina que roubava livros,The Book Thief,Fox,"16.134.400,00",1373208,260,2014-01-31
+34,Muita calma nessa hora 2,Muita calma nessa hora 2,Downtown/Paris,"15.978.600,00",1432672,410,2014-01-17
+35,As aventuras de Peabody e Sherman,Mr. Peabody & Sherman,Fox,"15.165.700,00",1197339,678,2014-02-28
+36,Operação Big Hero,Big Hero 6,Disney,"14.903.700,00",1148944,950,2014-12-25
+37,Vestido pra casar,Vestido pra casar,Imagem,"14.844.500,00",1275187,499,2014-07-08
+38,O lobo de Wall Street,The Wolf of Wall Street,Paris,"14.705.600,00",1070355,282,2014-01-24
+39,Divergente,Divergent,Paris,"14.484.500,00",1213374,512,2014-04-17
+40,Frankenstein - Entre anjos e demônios,"I, Frankenstein",Playarte,"14.096.900,00",1045879,509,2014-01-24
+41,Uma aventura Lego,The Lego Movie,Warner,"13.436.700,00",1033539,575,2014-07-02
+42,Festa no céu,The Book of Life,Fox,"13.011.700,00",1052897,566,2014-10-16
+43,Atividade paranormal: Marcados pelo mal,Paranormal Activity: The Marked Ones,Paramount,"12.110.400,00",1042814,349,2014-10-01
+44,Tarzan - A evolução da lenda,Tarzan,Imagem,"12.021.100,00",913209,395,2014-01-17
+45,Pompeia,Pompeii,Imagem,"11.708.900,00",780544,419,2014-02-21
+46,Alemão,Alemão,Downtown/Paris,"11.341.400,00",960451,368,2014-03-13
+47,Sem escalas,Non-Stop,Paris,"10.647.700,00",907216,409,2014-02-28
+48,Tim Maia,Tim Maia,Downtown/Paris,"10.338.900,00",820276,551,2014-10-30
+49,No limite do amanha,Edge of Tomorrow,Warner,"10.213.600,00",796239,530,2014-05-29
+50,Livrai-nos do mal,Deliver Us From Evil,Sony,"10.114.300,00",908264,310,2014-09-18
+51,Trapaça,American Hustle,Sony,"8.974.810,00",635522,152,2014-07-02
+52,O protetor,The Equalizer,Sony,"8.865.550,00",709055,335,2014-09-25
+53,Confissoes de adolescente,Confissoes de adolescente,Sony,"8.608.777,00",821470,388,2014-10-01
+54,Hércules,The Legend of Hercules,Diamond Films,"8.580.220,00",652287,335,2014-07-02
+55,Caminhando com dinossauros,Walking with Dinosaurs,Fox,"8.273.120,00",612265,302,2014-01-17
+56,Os caras de pau em o misterioso roubo do anel,Os caras de pau em o misterioso roubo do anel,Imagem,"8.050.280,00",663268,552,2014-12-25
+57,Need for Speed,Need for Speed,Disney,"7.900.540,00",599155,432,2014-03-13
+58,O hobbit - A desolação de Smaug,The Hobbit - The Desolation of Smaug,Warner,"7.845.760,00",579829,1012,2013-12-13
+59,Copa de elite,Copa de elite,Fox,"7.794.860,00",646816,256,2014-04-17
+60,Aviões - Heróis do fogo ao resgate,Planes: Fire & Rescue,Disney,"7.564.970,00",642025,702,2014-07-17
+61,47 Ronins,47 Ronin,Universal,"7.429.550,00",540837,250,2014-01-31
+62,Garota exemplar,Gone Girl,Fox,"7.255.690,00",535290,258,2014-02-10
+63,12 anos de escravidão,12 Years a Slave,Disney,"7.031.750,00",504818,77,2014-02-21
+64,Quero matar meu chefe 2,Horrible Bosses 2,Warner,"6.969.080,00",569453,345,2014-04-12
+65,O apocalipse,Left Behind,Imagem,"6.914.420,00",636718,233,2014-10-23
+66,A lenda de Oz 3D,Legends of Oz: Dorothy s Return,Paris,"6.741.770,00",541258,423,2014-09-10
+67,O doador de memórias,The Giver,Paris,"6.681.330,00",575194,341,2014-11-09
+68,Caçadores de obras-primas,The Monuments Men,Fox,"6.645.020,00",519039,246,2014-02-14
+69,Se eu ficar,If I Stay,Warner,"6.462.790,00",577354,226,2014-04-09
+70,Getúlio,Getúlio,Europa/Copacabana,"6.357.230,00",507424,177,2014-01-05
+71,Mulheres ao ataque,The Other Woman,Fox,"6.072.010,00",513368,277,2014-08-05
+72,O juiz,The Judge,Warner,"5.887.940,00",428492,172,2014-10-16
+73,Vizinhos,Neighbors,Universal,"5.819.300,00",482193,198,2014-06-19
+74,Os Cavaleiros do Zodíaco - A lenda do santuário,Saint Seya : Legend of Sanctuary,Diamond Films,"5.734.790,00",513416,367,2014-11-09
+75,Tinkerbell - Fadas e piratas,Tinkerbell - The Pirate Fairy,Disney,"5.571.500,00",433144,207,2014-07-03
+76,No olho do tornado,Into the Storm,Warner,"5.348.520,00",459493,300,2014-08-28
+77,A Bela e a Fera,The Beauty and the Beast,California,"5.345.960,00",512529,327,2014-09-25
+78,O grande Hotel Budapeste,The Grand Budapest Hotel,Fox,"5.331.230,00",335341,62,2014-03-07
+79,Anjos da lei 2,22 Jump Street,Sony,"5.235.530,00",465121,233,2014-04-09
+80,Ouija - O jogo dos espíritos,Ouija,H2O Films,"4.629.250,00",383520,172,2014-11-12
+81,Relatos Selvagens,Relatos Salvajes,Warner,"4.597.740,00",308629,86,2014-10-23
+82,A vida secreta de Walter Mitty,The Secret Life of Walter Mitty,Fox,"4.311.340,00",339707,433,2013-12-20
+83,Sex Tape: perdido na nuvem,Sex Tape,Sony,"4.287.180,00",342625,232,2014-08-21
+84,Caçada mortal,A Walk Among the Tombstones,Disney,"4.281.690,00",367752,321,2014-04-12
+85,Operação sombra: Jack Ryan,Jack Ryan,Paramount,"4.202.160,00",328282,252,2014-07-02
+86,Made in China,Made in China,H2O Films,"4.192.273,00",391581,348,2014-06-11
+87,A mansão mágica,The House of Magic,Imagem,"3.946.440,00",299275,384,2014-06-11
+88,De volta ao jogo,John Wick,Imagem,"3.921.710,00",317395,230,2014-11-27
+89,Os Boxtrolls,The Boxtrolls,Universal,"3.847.750,00",308804,338,2014-02-10
+90,A noite da virada,A noite da virada,Paris,"3.841.300,00",321380,304,2014-12-18
+91,Transcendence - A revolução,Transcendence,Diamond Films,"3.829.260,00",298200,161,2014-06-19
+92,O herdeiro do Diabo,Devil's Due,Fox,"3.803.210,00",313922,167,2014-01-24
+93,As aventuras de Paddington,Paddington,Diamond Films,"3.748.140,00",354056,368,2014-04-12
+94,Magia ao luar,Magic in the Moonlight,Imagem,"3.656.930,00",239727,72,2014-08-28
+95,Album de familia,August: Osage County,Imagem,"3.656.600,00",267607,129,2013-12-27
+96,Amante a domicílo,Fading Gigolo,Imagem,"3.649.440,00",229691,85,2014-01-05
+97,Inatividade paranormal 2,A haunted house 2,Playarte,"3.569.580,00",298515,303,2014-04-24
+98,Namoro ou liberdade?,That Awkward Moment,Imagem,"3.392.120,00",284514,198,2014-03-20
+99,Ninfomaníaca - parte 1,Nymphomaniac,California,"3.213.240,00",250587,44,2014-10-01
+100,Trash - A esperança vem do lixo,Trash,Universal,"3.069.040,00",270487,252,2014-09-10
+101,Khumba,Khumba,Imagem,"2.960.080,00",239615,315,2014-03-07
+102,Philomena,Philomena,Paris,"2.947.310,00",204733,94,2014-02-14
+103,Na quebrada,Na quebrada,Downtown/Paris,"2.942.040,00",255252,220,2014-10-16
+104,"Alexandre e o dia terrível, horrível, espantoso e horroroso","Alexander and The Terrible, Horrible, Not Good, Very Bad Day",Disney,"2.801.960,00",265458,231,2014-10-23
+105,O que será de nozes?,The Nut Job,Playarte,"2.708.300,00",238790,234,2014-08-21
+106,Deus não está morto,God's Not Dead,Graça Filmes,"2.609.100,00",274915,73,2014-08-21
+107,Hoje eu quero voltar sozinho,Hoje eu quero voltar sozinho,Vitrine,"2.401.663,00",206464,45,2014-10-04
+108,Irmã Dulce,Irmã Dulce,Paris,"2.362.560,00",205396,101,2014-11-13
+109,Ela,Her,Sony,"2.331.900,00",166107,63,2014-02-14
+110,Julio sumiu,Julio sumiu,Imagem,"2.235.570,00",181133,249,2014-04-17
+111,O espelho,Oculus,Playarte,"1.922.580,00",152503,128,2014-03-07
+112,Clube de compras Dallas,Dallas Buyers Club,Universal,"1.913.190,00",128190,39,2014-02-21
+113,Chef,Chef,Imagem,"1.897.320,00",111911,72,2014-08-14
+114,Boa sorte,Boa sorte,Imagem,"1.884.500,00",147392,177,2014-11-27
+115,Mesmo se nada der certo,Begin Again,Imagem,"1.875.630,00",119649,110,2014-09-18
+116,A grande beleza,La grande bellezza,Europa/ Mares Filmes,"1.835.710,00",146223,9,2013-12-20
+117,Ender's Game - O jogo do exterminador,Ender s game,Paris,"1.691.470,00",156992,315,2013-12-20
+118,Fúria,Tokarev,California,"1.660.850,00",145932,178,2014-10-16
+119,Praia do Futuro,Praia do Futuro,California,"1.655.590,00",127606,70,2014-05-15
+120,De repente pai,Delivery Man,Disney,"1.587.950,00",140174,128,2014-10-01
+121,O melhor de mim,The Best of Me,Imagem,"1.467.220,00",119021,137,2014-10-30
+122,Ajuste de contas,Grudge Match,Warner,"1.375.830,00",110839,114,2014-10-01
+123,O físico,The Physician,Imagem,"1.322.930,00",96175,142,2014-09-10
+124,Boyhood - Da infância à juventude,Boyhood,Universal,"1.322.580,00",85356,11,2014-10-30
+125,O grande herói,Lone Survivor,Paris,"1.321.690,00",99916,161,2014-03-20
+126,Sin City 2 - A dama fatal,Sin City 2,Imagem,"1.291.370,00",86137,342,2014-09-25
+127,"Rio, eu te amo","Rio, eu te amo",Warner,"1.250.710,00",99886,239,2014-11-09
+128,Ninfomaníaca - parte 2,Nymphomaniac,California,"1.241.470,00",95184,43,2014-03-13
+129,O filho de Deus,Son of God,Diamond Films,"1.234.740,00",103588,247,2014-04-17
+130,"Homens, mulheres e filhos","Men, women and children",Paramount,"1.202.160,00",78288,58,2014-04-12
+131,13° Distrito,Brick Mansions,California,"1.173.910,00",96156,85,2014-06-19
+132,Não pare na pista,Não pare na pista,Sony,"1.161.870,00",96022,288,2014-08-14
+133,O que os homens falam,Una pistola en cada mano,Pandora,"1.101.300,00",80365,17,2014-05-22
+134,O casamento de Gorete,O casamento de Gorete,Europa,"997.983,00",93274,100,2014-11-27
+135,Amazonia,Amazonia,Imovision,"984.978,00",82255,175,2014-06-26
+136,Causa e efeito,Causa e efeito,Downtown/Paris,"983.053,00",83341,126,2014-03-07
+137,Justin Bieber's Believe,Justin Bieber's Believe,Diamond Films,"969.920,00",83602,146,2014-02-28
+138,November Man - Um espião nunca morre,The November Man,Playarte,"955.283,00",76296,124,2014-06-11
+139,A cem passos de um sonho,The Hundred-Foot Journey,Disney,"935.794,00",57365,41,2014-08-28
+140,Entre nós,Entre nós,Downtown/Paris,"933.079,00",71327,90,2014-03-27
+141,Isolados,Isolados,Paris,"932.516,00",84267,182,2014-09-18
+142,Um amor de vizinha,And So It Goes,Playarte,"884.163,00",63834,66,2014-09-10
+143,O abutre,Nightcrawler,Diamond Films,"865.548,00",53765,56,2014-12-18
+144,Um plano brilhante,Love Punch,Playarte,"858.752,00",61636,71,2014-06-19
+145,Walt nos bastidores de Mary Poppins,Saving Mr. Banks,Disney,"821.012,00",59314,176,2014-07-03
+146,A última viagem a Vegas,Last Vegas,Paris,"808.788,00",58323,325,2013-06-12
+147,Tudo por um furo,Anchorman 2,Paramount,"772.362,00",66211,96,2014-02-28
+148,Era uma vez em Nova York,The Immigrant,Europa,"764.985,00",52303,37,2014-11-09
+149,O inventor de jogos,The Games Maker 3D,Disney,"748.267,00",56121,125,2014-09-10
+150,Sétimo,Séptimo,Fox,"746.443,00",51605,23,2014-11-27
+1,Homem de Ferro 3,Iron Man 3,Disney,"96.745.500,00",7657490,1253,2013-04-26
+2,Meu malvado favorito 2,Despicable Me 2,Universal,"80.292.800,00",6972126,832,2013-05-07
+3,Thor 2 - O mundo sombrio,Thor - The Dark World,Disney,"63.629.700,00",5003423,1044,2013-01-11
+4,Minha mãe é uma peça - O filme,Minha mae é uma peça - O filme,Downtown/Paris,"49.534.000,00",4604505,406,2013-06-21
+5,Wolverine Imortal,The Wolverine,Fox,"49.099.000,00",3951954,805,2013-07-26
+6,Velozes e furiosos 6,The Fast and the Furious 6,Universal,"48.965.800,00",4529358,854,2013-05-24
+7,João e Maria - Caçadores de bruxas,Hansel & Gretel - Witch Hunters,Paramount,"48.414.800,00",3703754,702,2013-01-25
+8,De pernas pro ar 2,De pernas pro ar 2,Downtown/Paris,"43.929.900,00",4230799,718,2012-12-28
+9,Detona Ralph,Wreck-It Ralph,Disney,"40.342.600,00",3499461,743,2013-04-01
+10,Jogos Vorazes - Em chamas,The Hunger Games - Catching Fire,Paris,"39.709.600,00",3534870,975,2013-11-15
+11,Universidade Monstros,Monsters University,Disney,"37.138.100,00",3311150,832,2013-06-21
+12,Homem de Aço,Man of Steel,Warner,"36.132.700,00",2747384,780,2013-12-07
+13,"Se beber, nao case! - Parte 3",The Hangover - Part 3,Warner,"35.244.900,00",3222572,559,2013-05-30
+14,Meu passado me condena,Meu passado me condena,Downtown/Paris,"34.942.300,00",3167246,373,2013-10-25
+15,O hobbit - A desolação de Smaug,The Hobbit - The Desolation of Smaug,Warner,"33.774.600,00",2458468,1012,2013-12-13
+16,Os Croods,The Croods,Fox,"33.680.500,00",2793478,739,2013-03-22
+17,Os Smurfs 2,The Smurfs 2,Sony,"33.622.300,00",2945807,755,2013-02-08
+18,Guerra Mundial Z,World War Z,Paramount,"33.174.000,00",2584510,759,2013-06-28
+19,Vai que dá certo,Vai que dá certo,Imagem,"29.048.700,00",2751599,450,2013-03-22
+20,Tá chovendo hambúrguer 2,Cloudy with a Chance of Meatballs 2,Sony,"28.572.100,00",2477408,658,2013-04-10
+21,Percy Jackson e o mar dos monstros,Percy Jackson & the Olympians: The Sea of Monsters,Fox,"26.445.900,00",2146756,586,2013-08-16
+22,"Oz, mágico e poderoso","Oz, The Great and Powerful",Disney,"26.413.700,00",2068639,732,2013-08-03
+23,Elysium,Elysium,Sony,"20.116.800,00",1748007,396,2013-09-20
+24,GI Joe 2 - Retaliação,G.I. Joe 2: Retaliation,Paramount,"18.854.800,00",1441557,487,2013-03-29
+25,As aventuras de Pi,Life of Pi,Fox,"18.400.200,00",1410602,412,2012-12-21
+26,Somos tão jovens,Somos tão jovens,Imagem/Fox,"18.283.134,00",1723923,550,2013-03-05
+27,Crô,Crô,Donwtown/Paris,"17.976.800,00",1643544,460,2013-11-29
+28,Gravidade,Gravity,Warner,"17.929.300,00",1109412,212,2013-11-10
+29,Invocação do mal,The Conjuring,Warner,"17.434.200,00",1623335,391,2013-09-13
+30,Duro de matar: Um bom dia para morrer,A Good Day to Die Hard,Fox,"17.327.300,00",1539559,550,2013-02-22
+31,Gente grande 2,Grown-Ups 2,Sony,"17.074.700,00",1581341,243,2013-08-16
+32,Reino escondido,Epic,Fox,"16.761.600,00",1381538,601,2013-05-17
+33,O lado bom da vida,Silver Linings Playbook,Paris,"16.183.900,00",1343642,186,2013-01-02
+34,Truque de mestre,Now You See Me,Paris,"16.027.000,00",1328610,318,2013-05-07
+35,Faroeste caboclo,Faroeste caboclo,Europa,"16.025.298,00",1524867,464,2013-05-30
+36,Círculo de fogo,Pacific Rim,Warner,"14.789.500,00",1159973,538,2013-09-08
+37,Aviões,Planes,Disney,"14.295.700,00",1206518,628,2013-09-13
+38,Django livre,Django Unchained,Sony,"14.152.100,00",1144740,194,2013-01-18
+39,O concurso,"Concurso, O",Downtown/Paris,"14.143.900,00",1321727,355,2013-07-19
+40,Depois da Terra,After Earth,Sony,"13.877.200,00",1298473,348,2013-07-06
+41,Turbo,Turbo,Fox,"11.997.400,00",1050719,609,2013-07-19
+42,"Jack, o caçador de gigantes",Jack the Giant Slayer,Warner,"11.825.300,00",942996,430,2013-03-29
+43,Oblivion,Oblivion,Universal,"11.821.000,00",1051173,479,2013-12-04
+44,Mato sem cachorro,Mato sem cachorro,Imagem,"11.596.400,00",1155828,377,2013-04-10
+45,Além da escuridão - Star Trek,Star Trek Into Darkness,Paramount,"11.435.700,00",803386,554,2013-06-14
+46,Bons de bico,Free Birds,Imagem,"10.644.300,00",945300,425,2013-08-11
+47,Os estagiários,The Internship,Fox,"10.290.200,00",903202,214,2013-08-30
+48,Inatividade paranormal,A Haunted House,Playarte,"9.920.240,00",922456,276,2013-01-02
+49,Lincoln,Lincoln,Fox,"9.901.290,00",797233,151,2013-01-25
+50,A viagem,Cloud Atlas,Imagem,"9.769.990,00",846210,282,2013-11-01
+51,Os miseráveis,Les Misérables,Universal,"9.729.820,00",799346,142,2013-01-02
+52,O cavaleiro solitário,The Lone Ranger,Disney,"9.391.660,00",879502,410,2013-12-07
+53,Até que a sorte nos separe 2,Até que a sorte nos separe 2,Downtown/Paris,"9.205.970,00",782661,776,2013-12-27
+54,Dezesseis luas,Beautiful Creatures,Paris,"8.833.940,00",859370,441,2013-01-03
+55,"Hobbit: Uma jornada inesperada, O",The Hobbit: An Unexpected Journey,Warner,"8.346.270,00",670385,995,2012-12-14
+56,O ataque,White House Down,Sony,"8.016.210,00",722687,355,2013-06-09
+57,As bem-armadas,The Heat,Fox,"7.890.660,00",733605,302,2013-09-20
+58,A última viagem a Vegas,Last Vegas,Paris,"7.728.950,00",640849,321,2013-06-12
+59,O tempo e o vento,"Tempo e o vento, O",Downtown/Paris,"7.722.237,00",712213,43,2013-09-20
+60,Capitão Phillips,Captain Phillips,Sony,"7.691.440,00",581299,204,2013-08-11
+61,As aventuras de Tadeu,Las aventuras de Tadeo Jones,Paramount,"7.478.100,00",594025,368,2013-08-02
+62,Mama,Mama,Universal,"7.454.240,00",679328,183,2013-05-04
+63,Os instrumentos mortais - Cidade dos ossos,The Mortal Instruments - City of Bones,Paris,"6.912.360,00",650589,444,2013-08-23
+64,Uma família em apuros,Parental Guidance,Fox,"6.865.290,00",709300,260,2013-11-01
+65,O vôo,Flight,Paramount,"6.763.700,00",553510,169,2013-08-02
+66,"Carrie, a estranha",Carrie,Sony,"6.282.620,00",571834,230,2013-06-12
+67,Invasão à Casa Branca,Olympus Has Fallen,Paris,"6.207.260,00",522153,265,2013-05-04
+68,Todo mundo em pânico 5,Scary Movie 5,Imagem,"5.855.890,00",562578,337,2013-06-28
+69,Jack Reacher - O último tiro,Jack Reacher,Paramount,"5.608.560,00",478340,217,2013-11-01
+70,Red 2 - Aposentados e ainda mais perigosos,Red 2,Paris,"5.547.890,00",479482,378,2013-02-08
+71,A vida secreta de Walter Mitty,The Secret Life of Walter Mitty,Fox,"5.498.700,00",442980,433,2013-12-20
+72,Familia do bagulho,Where the Millers,Warner,"5.397.650,00",512806,221,2013-09-27
+73,Os suspeitos,Prisoners,Paris,"5.366.830,00",453921,218,2013-10-18
+74,A hospedeira,The Host,Imagem,"5.166.310,00",486779,293,2013-03-29
+75,Meu namorado é um zumbi,Warm Bodies,Paris,"5.067.810,00",499575,228,2013-08-02
+76,Cine Holliúdy,Cine Holliúdy,Downtown/Paris,"5.020.860,00",483617,10,2013-09-08
+77,Blue Jasmine,Blue Jasmine,Imagem,"4.919.980,00",340196,75,2013-11-15
+78,O grande Gatsby,The Great Gatsby,Warner,"4.839.540,00",317382,162,2013-07-06
+79,O último desafio,The Last Stand,Paris,"4.653.150,00",451633,347,2013-01-18
+80,Vovô sem vergonha,Jackass Presents: Bad Grandpa,Paramount,"4.630.020,00",419233,139,2013-11-29
+81,Rota de fuga,Escape plan,Paris,"4.611.300,00",458199,188,2013-11-10
+82,Odeio o dia dos namorados,Odeio o dia dos namorados,Disney,"4.502.080,00",459061,312,2013-07-06
+83,Se puder... dirija!,Se puder... dirija!,Disney,"4.468.885,00",361125,451,2013-08-30
+84,Serra Pelada,Serra Pelada,Warner,"4.230.410,00",407914,330,2013-10-18
+85,A morte do demônio,Evil Dead,Sony,"4.061.380,00",355039,100,2013-04-19
+86,Sobrenatural: capítulo 2,Insidious: Chapter 2,Sony,"4.060.970,00",369225,220,2013-11-22
+87,"Penetras, Os","Penetras, Os",Warner,"3.993.140,00",402226,316,2012-11-30
+88,"Impossível, O",The Impossible,Paris,"3.917.010,00",353690,297,2012-12-21
+89,Um time show de bola,Metegol,Universal,"3.865.760,00",340123,490,2013-11-29
+90,Dragon Ball Z - A batalha dos deuses,Dragon Ball Z - Battle of God,Diamond,"3.745.760,00",400987,287,2013-11-10
+91,A busca,"Busca, A",Downtown/Paris,"3.690.330,00",351454,148,2013-03-15
+92,Ender s Game - O jogo do exterminador,Ender s game,Paris,"3.676.240,00",328688,322,2013-12-20
+93,Riddick 3,Riddick 3,Imagem,"3.627.930,00",358889,189,2013-11-10
+94,Flores raras,Flores raras,Imagem,"3.399.944,00",276102,94,2013-08-16
+95,Jobs,Jobs,Playarte,"3.317.010,00",249863,196,2013-06-09
+96,O conselheiro do crime,The Counselor,Fox,"3.171.050,00",248364,156,2013-10-25
+97,Sammy - A grande fuga,Sammy 2: The Great Escape,Warner,"3.166.060,00",272928,233,2013-01-18
+98,"Tainá, a origem","Tainá, a origem",Downtown/Sony,"3.156.328,00",353314,196,2013-08-02
+99,O último exorcismo - Parte 2,The Last Exorcism Part II,Playarte,"3.081.810,00",295683,244,2013-10-05
+100,R.I.P.D - Agentes do além,R.I.P.D,Universal,"2.869.600,00",216242,264,2013-09-27
+101,Rush - No limite da emocao,Rush,California,"2.805.730,00",202234,210,2013-09-13
+102,A hora mais escura,Zero Dark Thirty,Imagem,"2.688.230,00",205921,102,2013-02-15
+103,Aposta máxima,Runner,Fox,"2.655.640,00",208414,130,2013-04-10
+104,Amor,Amour,Imovision,"2.649.160,00",222638,47,2013-01-18
+105,O resgate,Stolen,California,"2.296.870,00",212534,180,2013-01-25
+106,A fuga do planeta Terra,Escape from Planet Earth,Diamond,"2.239.520,00",171718,158,2013-05-30
+107,O casamento do ano,The Big Wedding,Imagem,"2.219.400,00",174629,136,2013-08-30
+108,Anna Karenina,Anna Karenina,Universal,"2.170.100,00",156785,35,2013-03-15
+109,Dose dupla,2 Guns,Imagem,"2.142.810,00",197499,220,2013-09-13
+110,Caça aos gângsteres,Gangster Squad,Warner,"2.044.430,00",186657,170,2013-01-02
+111,A família,The Family,Paris,"2.041.690,00",157739,134,2013-09-20
+112,O reino gelado,The Snow Queen,Playarte,"2.038.720,00",142524,173,2013-02-22
+113,O acordo,Snitch,Playarte,"1.976.210,00",190078,179,2013-04-19
+114,Giovanni Improtta,Giovanni Improtta,Sony,"1.966.330,00",190069,203,2013-05-17
+115,Finalmente 18!,21 and Over,Imagem,"1.905.180,00",186690,94,2013-05-17
+116,O massacre da serra-elétrica 3D - A lenda continua,Texas Chainsaw 3D,Europa,"1.895.560,00",142981,181,2013-05-17
+117,Como não perder essa mulher,Don Jon,Imagem,"1.842.240,00",154911,165,2013-06-12
+118,One Direction: This is us,One Direction: This is us,Sony,"1.827.480,00",132657,205,2013-06-09
+119,Uma ladra sem limites,Identity Thief,Universal,"1.816.640,00",167942,178,2013-10-05
+120,Amanhecer - Parte 2,The Twilight Saga: Breaking Down - The Final,Paris,"1.810.230,00",202341,1213,2012-11-16
+121,Linha de ação,Broken City,Imagem,"1.744.390,00",133793,129,2013-03-15
+122,Terapia de risco,Side Effects,Diamond,"1.739.250,00",129469,100,2013-05-17
+123,Colegas,Colegas,Europa,"1.720.251,00",163776,141,2013-01-03
+124,Hannah Arendt,Hannah Arendt,Esfera/Europa,"1.688.170,00",129980,6,2013-05-07
+125,Vendo ou alugo,Vendo ou alugo,Europa,"1.631.820,00",152106,178,2013-09-08
+126,É o fim,This is the End,Sony,"1.601.119,00",158977,140,2013-11-10
+127,Casa da mãe Joana 2,Casa da mãe Joana 2,Imagem,"1.600.170,00",154213,187,2013-06-09
+128,Argo,Argo,Warner,"1.599.520,00",125319,100,2012-09-11
+129,Os amantes passageiros,Los amantes pasajeros,Paris,"1.592.250,00",127352,74,2013-06-28
+130,Monstros S.A 3D,Monsters Inc 3D,Disney,"1.571.850,00",104035,111,2013-08-02
+131,Antes da meia noite,Before Midnight,Diamond,"1.495.620,00",109827,38,2013-06-14
+132,Bling Ring - A gangue de Hollywood,The Bling Ring,Diamond,"1.482.070,00",110795,44,2013-08-16
+133,Um porto seguro,Safe Haven,Imagem,"1.422.470,00",122687,146,2013-04-19
+134,Questão de tempo,About Time,Universal,"1.285.941,00",101066,127,2013-12-20
+135,Chamada de emergência,The Call,Diamond,"1.254.250,00",100359,140,2013-12-04
+136,"Origem dos Guardiões, A",Rise of the Guardians,Paramount,"1.240.630,00",143614,645,2012-11-30
+137,Minhocas,Minhocas,Fox,"1.214.440,00",116898,122,2013-12-20
+138,Para maiores,Movie 43,Imagem,"1.196.270,00",111397,81,2013-08-02
+139,"Negociaçao, A",Arbitrage,Imagem,"1.196.010,00",93446,58,2012-12-21
+140,Indomável sonhadora,Beasts of the Southern Wild,Imagem,"1.160.940,00",95290,57,2013-02-22
+141,O mordomo da Casa Branca,The Butler,Diamond,"1.106.250,00",69104,42,2013-01-11
+142,Amor é tudo o que você precisa,Den skaldede frisør,H2O,"1.101.910,00",91257,91,2013-08-03
+143,Silent Hill - Revelação 3D,Silent Hill - Revelation 3D,Playarte,"1.091.880,00",89171,49,2013-11-10
+144,Parker,Parker,Paris,"1.089.380,00",96457,95,2013-03-22
+145,A fuga,Deadfall,Playarte,"1.078.600,00",100114,142,2013-03-15
+146,Álbum de família,August: Osage County,Imagem,"1.033.660,00",74145,129,2013-12-27
+147,"Sem dor, sem ganho",Pain and Gain,Paramount,"1.006.500,00",87433,75,2013-08-23
+148,Tese sobre um homicídio,Tesis sobre um homicídio,California,"996.804,00",76661,23,2013-07-26
+149,O som ao redor,"Som ao redor, O",Vitrine,"983.548,00",95671,13,2013-04-01
+150,O mestre,The Master,Paris,"982.874,00",74555,68,2013-01-25
+1,OS VINGADORES,The Avengers,Disney,"129.817.328,00",10929041,1051,2012-04-27
+2,AMANHECER - PARTE 2,The Twilight Saga: Breaking Down - The Final,Paris,"106.032.408,00",10114318,1215,2012-11-16
+3,A ERA DO GELO 4,Ice Age: Continental Drift,Fox,"94.501.739,00",8717355,1027,2012-06-29
+4,O ESPETACULAR HOMEM ARANHA,The Amazing Spider-Man,Sony,"60.219.160,00",5136100,988,2012-06-07
+5,MADAGASCAR 3: OS PROCURADOS,Madagascar 3: Europe Most Wanted,Paramount,"58.645.093,00",5235346,736,2012-07-06
+6,BATMAN - O CAVALEIRO DAS TREVAS RESSURGE,The Dark Knight Rises,Warner,"54.928.733,00",5133813,976,2012-07-27
+7,ALVIN E OS ESQUILOS 3,Alvin and the Chipmunks: Chipwire,Fox,"41.998.360,00",4883059,561,2012-06-01
+8,VALENTE,Brave,Disney,"37.101.159,00",3481101,704,2012-07-20
+9,ATÉ QUE A SORTE NOS SEPARE,Até que a sorte nos separe,Downtown/Paris/RioFilme,"34.781.667,00",3432206,421,2012-05-10
+10,OS MERCENÁRIOS 2,The Expendables 2,Imagem,"33.298.082,00",3177981,664,2012-08-31
+11,HOMENS DE PRETO 3,Men in Black 3,Sony,"31.831.589,00",2713642,862,2012-05-25
+12,HOTEL TRANSILVÂNIA,Hotel Transylvania,Sony,"30.998.210,00",2519919,462,2012-05-10
+13,FÚRIA DE TITÃS 2,Warth of the Titans,Warner,"30.308.063,00",2474442,533,2012-03-30
+14,007 - OPERAÇÃO SKYFALL,Skyfall,Sony,"29.613.416,00",2549290,616,2012-10-26
+15,O HOBBIT: UMA JORNADA INESPERADA,The Hobbit: An Unexpected Journey,Warner,"27.698.889,00",2157624,981,2012-12-14
+16,MOTOQUEIRO FANTASMA: ESPIRITO DE VINGANÇA,Ghost Rider: Spirit of Vengeance,Imagem,"27.643.131,00",2381031,496,2012-02-17
+17,E AÍ... COMEU?,E aí... comeu?,Downtown/Paris/RioFilme,"26.230.577,00",2601233,514,2012-06-22
+18,BRANCA DE NEVE E O CAÇADOR,Snow White and the Huntsman,Universal,"24.934.913,00",2521402,474,2012-01-06
+19,SHERLOCK HOLMES: O JOGO DE SOMBRAS,Sherlock Holmes: A Game of Shadows,Warner,"24.722.380,00",2453251,440,2012-01-13
+20,A ORIGEM DOS GUARDIÕES,Rise of the Guardians,Paramount,"23.554.513,00",2009732,589,2012-11-30
+21,IMORTAIS,Immortals,Imagem,"23.315.807,00",1920042,505,2011-12-30
+22,OS PENETRAS,OS Penetras,Warner,"21.492.755,00",2142187,325,2012-11-30
+23,CADA UM TEM A GÊMEA QUE MERECE,Jack and Jill,Sony,"20.604.784,00",2131422,317,2012-10-02
+24,RESIDENT EVIL 5 - A RETRIBUIÇÃO,Resident Evil: Retribution,Sony,"19.825.834,00",1569049,421,2012-09-14
+25,JOGOS VORAZES,The Hunger Games,Paris,"19.384.656,00",1925979,638,2012-03-23
+26,AS AVENTURAS DE TINTIM,The Adventures of Tintin: The Secret of the Unicorn,Sony,"19.248.445,00",1535892,476,2012-01-20
+27,TED,Ted,Universal,"18.700.567,00",1785611,269,2012-09-21
+28,"ESPELHO, ESPELHO MEU","Mirror, Mirror",Imagem,"18.554.914,00",1923502,428,2012-06-04
+29,AMERICAN PIE: O REENCONTRO,American Reunion,Universal,"15.581.116,00",1540375,282,2012-04-20
+30,"GONZAGA, DE PAI PARA FILHO","Gonzaga, de pai para filho",Downtown/Paris/RioFilme,"14.720.762,00",1466835,387,2012-10-26
+31,PROMETHEUS,Prometheus,Fox,"14.669.772,00",1102448,514,2012-06-15
+32,A INVENÇÃO DE HUGO CABRET,Hugo - 3D,Paramount,"14.465.940,00",1052898,296,2012-02-17
+33,MISSÃO IMPOSSÍVEL 4 - PROTOCOLO FANTASMA,Mission Impossible - Ghost Protocol,Paramount,"13.805.532,00",1388330,622,2011-12-21
+34,INTOCÁVEIS,Intouchables,California,"13.765.670,00",1059218,112,2012-08-31
+35,JOHN CARTER,John Carter,Disney,"12.492.602,00",1034825,454,2012-09-03
+36,ATIVIDADE PARANORMAL 4,Paranormal Activity 4,Paramount,"12.219.401,00",1195389,285,2012-10-19
+37,ABRAHAM LINCOLN: CAÇADOR DE VAMPIROS,Abraham Lincoln: Vampire Hunter,Fox,"11.917.943,00",1001792,335,2012-07-09
+38,O VINGADOR DO FUTURO,Total Recall,Sony,"11.647.393,00",1150454,492,2012-08-17
+39,AS AVENTURAS DE PI *,Life of Pi,Fox,"11.008.966,00",817179,404,2012-12-21
+40,VIAGEM 2: A ILHA MISTERIOSA,Journey 2: The Mysterious Island,Warner,"10.675.989,00",874635,341,2012-03-02
+41,GATO DE BOTAS,Puss in Boots,Paramount,"10.572.324,00",1104707,742,2011-09-12
+42,BUSCA IMPLACÁVEL 2,Taken 2,Fox,"10.210.717,00",936871,194,2012-05-10
+43,GUERRA É GUERRA,This Means War,Fox,"10.086.347,00",1012921,321,2012-03-16
+44,SOMBRAS DA NOITE,Dark Shadows,Warner,"9.904.884,00",940060,268,2012-06-22
+45,TITANIC 3D,Titanic 3D,Fox,"9.713.721,00",675783,243,2012-04-13
+46,LORAX: EM BUSCA DA TRÚFULA PERDIDA,Dr. Seuss The Lorax,Universal,"9.695.565,00",826711,531,2012-03-30
+47,ANJOS DA NOITE-O DESPERTAR,Underworld Awakening,Sony,"9.691.735,00",741711,282,2012-02-03
+48,"AS AVENTURAS DE AGAMENON, O REPÓRTER","AS Aventuras de Agamenon, o repórter",Downtown/Paris/RioFilme,"9.285.641,00",942979,242,2012-06-01
+49,PARA ROMA COM AMOR,To Rome With Love,Paris,"8.271.878,00",649565,116,2012-06-29
+50,A DAMA DE FERRO,The Iron Lady,Paris,"7.894.891,00",669030,126,2012-02-17
+51,BATTLESHIP - A BATALHA DOS MARES,Battleship,Universal,"7.835.972,00",839987,503,2012-11-05
+52,MILLENNIUM - OS HOMENS QUE NÃO AMAVAM AS MULHERES,The Girl with the Dragon Tattoo,Sony,"7.258.421,00",681835,251,2012-01-27
+53,"DIVÃ PARA DOIS, UM",Hope Springs,Imagem,"7.219.106,00",591898,152,2012-08-17
+54,"DESCENDENTES, OS",The Descendants,Fox,"6.825.410,00",593797,152,2012-01-27
+55,"DITADOR, O",The Dictator,Paramount,"6.499.518,00",625119,244,2012-08-24
+56,DE PERNAS PRO AR 2,De pernas pro ar 2,Downtown/Paris/RioFilme,"6.360.050,00",563543,710,2012-12-28
+57,FILHA DO MAL,The Devil Inside,Paramount,"5.847.407,00",586306,275,2012-03-02
+58,POSSESSÃO,The Possession,Paris,"5.786.333,00",550573,196,2012-02-11
+59,TINKER BELL E O SEGREDO DAS FADAS,Tinker Bell,Disney,"5.671.223,00",445655,319,2012-09-21
+60,PIRATAS PIRADOS!,The Pirates! Band of Misfits,Sony,"5.602.729,00",479147,278,2012-11-05
+61,TOTALMENTE INOCENTES,Totalmente inocentes,Downtown/Paris/RioFilme,"5.417.380,00",543288,150,2012-07-09
+62,O QUE ESPERAR QUANDO VOCÊ ESTÁ ESPERANDO,What To Expect When You?re Expecting,Universal,"4.872.780,00",452961,175,2012-03-08
+63,O LEGADO BOURNE,The Bourne Legacy,Universal,"4.720.304,00",394627,242,2012-07-09
+64,LOOPER - ASSASSINOS DO FUTURO,Looper,Paris,"4.602.943,00",441083,329,2012-09-28
+65,A ENTIDADE,Sinister,Paris,"4.423.890,00",430103,179,2012-12-10
+66,O IMPOSSÍVEL,The Impossible,Paris,"4.342.857,00",375892,295,2012-12-21
+67,A MULHER DE PRETO,The Woman in Black,Paris,"4.333.322,00",423759,208,2012-02-24
+68,PARANORMAN,ParaNorman,Universal,"4.325.396,00",313738,239,2012-07-09
+69,O ARTISTA,The Artist,Paris,"4.062.445,00",347508,58,2012-10-02
+70,PARAÍSOS ARTIFICIAIS,Paraísos artificiais,Nossa/ RioFilme,"3.978.776,00",402329,233,2012-04-05
+71,XINGU,Xingu,Downtown/Sony/Riofilme,"3.977.055,00",392660,204,2012-06-04
+72,E A VIDA CONTINUA...,E a vida continua...,Paris,"3.912.321,00",378681,138,2012-09-14
+73,ARGO,Argo,Warner,"3.857.286,00",289036,107,2012-09-11
+74,PEQUENOS ESPIÕES 4,Kids 4: All the Time in the World,Imagem,"3.780.335,00",322654,219,2012-03-16
+75,FRANKENWEENIE,Frankenweenie,Disney,"3.689.056,00",259060,238,2012-02-11
+76,PROTEGENDO O INIMIGO,eua,Universal,"3.403.520,00",314495,168,2012-03-16
+77,2COELHOS,2Coelhos,Imagem,"3.360.560,00",343128,242,2012-01-20
+78,OUTBACK - UMA GALERA ANIMAL,Outback,Playarte,"3.312.139,00",248892,242,2012-08-17
+79,NA ESTRADA,On The Road,Playarte,"3.258.996,00",286333,116,2012-07-13
+80,COMO AGARRAR MEU EX-NAMORADO,One For The Money,Playarte,"3.127.578,00",313827,146,2012-04-13
+81,PARA SEMPRE,The Vow,Sony,"3.094.205,00",273826,69,2012-07-06
+82,CAVALO DE GUERRA,War Horse,Disney,"3.089.761,00",277623,115,2012-06-01
+83,À BEIRA DO ABISMO,Man on a Ledge,Paris,"2.973.998,00",291678,200,2012-03-02
+84,A HORA DA ESCURIDÃO,The Darkest Hour,Fox,"2.909.397,00",230375,162,2012-01-13
+85,O MAR NÃO ESTÁ PRÁ PEIXE: TUBARÕES À VISTA,The Reef: High Tide,PlayArte,"2.745.227,00",234276,245,2012-02-11
+86,CHERNOBYL,Chernobyl Diaries,Paris,"2.632.983,00",255912,137,2012-07-20
+87,O CORVO,The Raven,Paris,"2.574.224,00",251140,173,2012-05-18
+88,BILLI PIG,Billi Pig,Imagem,"2.512.849,00",262213,211,2012-02-03
+89,ANJOS DA LEI,21 Jump Street,Sony,"2.409.761,00",246670,202,2012-04-05
+90,COMPRAMOS UM ZOOLÓGICO,We Bought a Zoo,Fox,"2.406.735,00",301422,223,2011-12-23
+91,UM MÉTODO PERIGOSO,A Dangerous Method,Imagem,"2.378.755,00",204638,39,2012-03-30
+92,STAR WARS: EP 1,Star Wars Episode I - The Phantom Menace,Fox,"2.364.855,00",163946,184,2012-10-02
+93,PLANO DE FUGA,Get the Gringo,Imagem,"2.099.147,00",197408,190,2012-05-18
+94,PROCURANDO NEMO 3D,Finding Nemo 3D,Disney,"2.084.267,00",151748,224,2012-12-10
+95,KATY PERRY: PART OF ME,Katy Perry: Part of Me,Paramount,"2.050.012,00",150655,154,2012-03-08
+96,UM HOMEM DE SORTE,The Lucky One,Warner,"2.047.703,00",200600,151,2012-04-05
+97,PODER SEM LIMITES,Chronicle,Fox,"2.039.497,00",207099,158,2012-02-03
+98,A SEPARAÇÃO,Nader az Simin,Imovision,"1.981.358,00",175747,15,2012-01-20
+99,"TRêS HISTÓRIAS, UM DESTINO",Destiny Road,Serendip / Art,"1.978.584,00",227226,51,2012-02-11
+100,A BELA E A FERA 3D,The Beauty and The Beast 3D,Disney,"1.940.067,00",140341,115,2012-03-02
+101,A SAGA MOLUSCO: ANOITECER,Breaking Wind,Playarte,"1.872.447,00",202154,192,2012-02-03
+102,A ÚLTIMA CASA DA RUA,House at the End of the Street,Paris,"1.863.554,00",183883,117,2012-07-12
+103,O PACTO,Seeking Justice,Imagem,"1.859.832,00",187167,193,2012-09-03
+104,DIÁRIO DE UM BANANA: DIAS DE CÃO,Diary of a Wimpy Kid: Dog Days,Fox,"1.848.135,00",203221,63,2012-02-11
+105,"RAUL SEIXAS: O INÍCIO, O FIM E O MEIO","Raul Seixas: O início, o fim e o meio",Paramount,"1.843.181,00",167515,34,2012-03-23
+106,A PERSEGUIÇÃO,The Grey,Imagem,"1.831.206,00",160953,87,2012-04-20
+107,O DIÁRIO DE TATI,O Diário de Tati,Vinny Filmes,"1.781.187,00",207392,104,2012-08-24
+108,O HOMEM DA MÁFIA,Killing Them Softly,Imagem,"1.750.317,00",131059,55,2012-11-30
+109,TÃO FORTE E TÃO PERTO,Extremely Loud and Incredibly Close,Warner,"1.722.620,00",162496,98,2012-02-24
+110,O ESPIÃO QUE SABIA DEMAIS,"Tinker, Tailor, Soldier, Spy",PlayArte,"1.687.832,00",137811,36,2012-01-13
+111,360,360,Paris,"1.674.793,00",142943,131,2012-08-17
+112,12 HORAS,Gone,Paris,"1.663.112,00",159032,128,2012-04-13
+113,PINA,Pina,Imovision,"1.656.517,00",103967,30,2012-03-23
+114,O EXÓTICO HOTEL MARIGOLD,The Best Exotic Marigold Hotel,Fox,"1.581.089,00",129593,42,2012-11-05
+115,QUATRO AMIGAS E UM CASAMENTO,Bachelorette,Imagem,"1.554.257,00",143436,145,2012-07-12
+116,J. EDGAR,J. Edgar,Warner,"1.523.039,00",128277,77,2012-01-27
+117,À BEIRA DO CAMINHO,"Beira do caminho, À",Fox,"1.515.453,00",168299,220,2012-10-08
+118,HISTÓRIAS CRUZADAS,The Help,Disney,"1.459.576,00",136289,73,2012-03-02
+119,VIZINHOS IMEDIATOS DE 3º GRAU,The Watch,Fox,"1.456.659,00",155177,99,2012-09-14
+120,DRIVE,Drive,Imagem,"1.427.962,00",123779,59,2012-02-03
+121,OS INFRATORES,Lawless,Imagem,"1.358.573,00",109687,92,2012-12-10
+122,MAGIC MIKE,Magic Mike,Imagem,"1.270.776,00",106586,99,2012-02-11
+123,DREDD,Dredd,Paris,"1.260.479,00",93233,197,2012-09-21
+124,SETE DIAS COM MARILYN,My Week With Marilyn,Imagem,"1.255.056,00",98759,50,2012-04-27
+125,REIS E RATOS,Reis e ratos,Warner,"1.239.568,00",129289,172,2012-02-17
+126,A NEGOCIAÇÃO,Arbitrage,Imagem,"1.221.282,00",90796,57,2012-12-21
+127,E SE VIVÊSSEMOS TODOS JUNTOS?,Et si on vivait tous ensemble?,Imovision,"1.202.571,00",104881,17,2012-12-10
+128,O HOMEM QUE MUDOU O JOGO,Moneyball,Sony,"1.190.272,00",95037,34,2012-02-17
+129,TUDO PELO PODER,The Ides of March,California,"1.172.389,00",97522,95,2011-12-23
+130,HABEMUS PAPAM,Habemus Papam,Vinny Filmes,"1.163.136,00",100020,15,2012-03-16
+131,SHAME,Shame,Paris,"1.140.686,00",99650,41,2012-03-16
+132,DEUS DA CARNIFICINA,Carnage,Imagem,"1.044.559,00",85190,24,2012-07-06
+133,PODER PARANORMAL,Red Lights,California,"1.024.078,00",98207,79,2012-09-21
+134,HELENO,Heleno,Downtown/Riofilme,"1.017.726,00",92632,62,2012-03-30
+135,A TODA PROVA,Haywire,Imagem,"972.080,00",88627,63,2012-04-13
+136,A DELICADEZA DO AMOR,La delicatesse,California,"912.913,00",83063,14,2012-05-25
+137,A SOMBRA DO INIMIGO,Alex Cross,Playarte,"896.397,00",83826,92,2012-07-12
+138,ROCK OF AGES: O FILME,Rock of Ages,Warner,"869.345,00",79067,124,2012-08-24
+139,DIÁRIO DE UM JORNALISTA BÊBADO,The Rum Diary,Vinny Filmes,"862.130,00",71466,29,2012-04-20
+140,A MUSICA SEGUNDO TOM JOBIM,"Musica segundo Tom Jobim, A",Sony,"854.016,00",74350,22,2012-01-20
+141,A DANÇARINA E O LADRÃO,El Baile de la Victoria,Paris,"839.548,00",72404,25,2012-03-30
+142,TROPICÁLIA,Tropicália,Imagem,"825.396,00",75418,41,2012-09-14
+143,PROJETO X - UMA FESTA FORA DE CONTROLE,Project X,Warner,"789.709,00",81506,104,2012-03-16
+144,SOLTEIROS COM FILHOS,Friends with Kids,Paris,"757.899,00",64398,84,2012-01-06
+145,AS VANTAGENS DE SER INVISÍVEL,The Perks of Being a Wallflower,Paris,"748.600,00",65058,34,2012-10-19
+146,CURVAS DA VIDA,Trouble with the Curve,Warner,"728.088,00",59640,44,2012-11-23
+147,MARCADOS PARA MORRER,End of Watch,California,"695.651,00",65180,95,2012-09-11
+148,ROUBO NAS ALTURAS,Tower Heist,Universal,"678.858,00",81185,299,2011-12-16
+149,ANDERSON SILVA: COMO ÁGUA,Like Water,California,"657.411,00",65981,171,2012-03-16
+150,FLORES DO ORIENTE,The Flowers of War,PlayArte,"657.269,00",53628,46,2012-05-25
+1,RIO,RIO,FOX,"68.834.186,00",6370218,1024,2011-08-04
+2,AMANHECER - PARTE 1,THE TWILIGHT SAGA: BREAKING DAWN - PART 1,PARIS,"64.094.300,00",6889882,1104,2011-11-18
+3,HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 2,HARRY POTTER AND THE DEATHLY HALLOWS - PART 2,WARNER,"57.015.254,00",5568692,915,2011-07-15
+4,OS SMURFS,THE SMURFS,SONY,"52.086.283,00",5076597,585,2011-05-08
+5,PIRATAS DO CARIBE - NAVEGANDO EM ÁGUAS MISTERIOSAS,PIRATES OF THE CARIBBEAN - ON STRANGER TIDES,DISNEY,"49.104.282,00",4445733,734,2011-05-20
+6,ENROLADOS,TANGLED,DISNEY,"39.599.363,00",3928561,446,2011-07-01
+7,GATO DE BOTAS,PUSS IN BOOTS,PARAMOUNT,"35.933.429,00",3352428,738,2011-09-12
+8,TRANSFORMERS 3,TRANSFORMERS: DARK OF THE MOON,PARAMOUNT,"35.702.341,00",3139189,590,2011-01-07
+9,CARROS 2,CARS 2,DISNEY,"33.654.905,00",3408802,747,2011-06-24
+10,VELOZES E FURIOSOS 5,FAST FIVE,UNIVERSAL,"33.341.446,00",3620205,517,2011-06-05
+11,CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR,CAPTAIN AMERICA: THE FIRST AVENGER,PARAMOUNT,"33.054.045,00",2837801,535,2011-07-29
+12,KUNG FU PANDA 2,KUNG FU PANDA 2,PARAMOUNT,"31.176.508,00",3038160,714,2011-10-06
+13,THOR,THOR,PARAMOUNT,"28.758.410,00",2576812,567,2011-04-29
+14,CILADA.COM,CILADA.COM,DTF/PARIS/RIOF,"28.362.645,00",3020337,380,2011-08-07
+15,DE PERNAS PRO AR,DE PERNAS PRO AR,DTF/PARIS,"27.742.269,00",3105003,345,2010-12-31
+16,SE BEBER NÃO CASE 2,THE HANGOVER 2,WARNER,"27.129.786,00",2839748,329,2011-05-27
+17,X-MEN: PRIMEIRA CLASSE,X-MEN: FIRST CLASS,FOX,"24.259.032,00",2693860,534,2011-03-06
+18,PLANETA DOS MACACOS: A ORIGEM,RISE OF THE PLANET OF THE APES,FOX,"24.170.625,00",2540245,538,2011-08-26
+19,BRUNA SURFISTINHA,BRUNA SURFISTINHA,IMAGEM,"19.958.683,00",2167189,342,2011-02-25
+20,ESPOSA DE MENTIRINHA,JUST GO WITH IT,SONY,"19.283.903,00",2106298,281,2011-04-03
+21,ASSALTO AO BANCO CENTRAL,ASSALTO AO BANCO CENTRAL,FOX,"18.642.707,00",1978227,305,2011-07-22
+22,OS PINGUINS DO PAPAI,MR. POPPER'S PENGUINS,FOX,"17.337.641,00",2066473,252,2011-01-07
+23,LANTERNA VERDE,GREEN LANTERN,WARNER,"17.139.367,00",1425160,363,2011-08-19
+24,O TURISTA,THE TOURIST,SONY,"16.607.118,00",1794599,258,2011-01-21
+25,OS TRÊS MOSQUETEIROS,THE THREE MUSKETEERS 3D,PLAYARTE,"16.359.920,00",1356596,422,2011-12-10
+26,GIGANTES DE AÇO,REAL STEEL,DISNEY,"15.824.043,00",1742868,423,2011-10-21
+27,CISNE NEGRO,BLACK SWAN,FOX,"14.375.200,00",1456696,177,2011-04-02
+28,GNOMEU & JULIETA,GNOMEO & JULIET,IMAGEM,"13.664.356,00",1145345,261,2011-04-03
+29,CAÇA ÀS BRUXAS,SEASON OF THE WITCH,IMAGEM,"13.616.398,00",1496846,230,2011-01-28
+30,O PALHAÇO,O PALHAÇO,IMAGEM,"13.543.783,00",1426021,259,2011-10-28
+31,AS VIAGENS DE GULLIVER,GULLIVER'S TRAVELS,FOX,"13.503.744,00",1349731,448,2011-01-14
+32,MEIA-NOITE EM PARIS,MIDNIGHT IN PARIS,PARIS,"13.174.850,00",1163633,98,2011-06-17
+33,ZE COLMEIA - O FILME,YOGI BEAR 3D,WARNER,"13.115.326,00",1449580,301,2011-01-21
+34,AMIZADE COLORIDA,FRIENDS WITH BENEFITS,SONY,"12.910.585,00",1345171,199,2011-09-30
+35,O HOMEM DO FUTURO,O HOMEM DO FUTURO,PARAMOUNT,"11.477.386,00",1217114,294,2011-02-09
+36,O DISCURSO DO REI,THE KING'S SPEECH,PARIS,"11.349.158,00",1103815,165,2011-11-02
+37,SEM SAÍDA,ABDUCTION,PARIS,"10.840.272,00",1175801,350,2011-09-23
+38,QUALQUER GATO VIRA-LATA,QUALQUER GATO VIRA-LATA,DISNEY,"10.746.359,00",1194750,188,2011-10-06
+39,PREMONIÇÃO 5,FINAL DESTINATION 5,WARNER,"10.644.226,00",873728,303,2011-09-23
+40,MISSÃO IMPOSSÍVEL 4,MISSION IMPOSSIBLE - GHOST PROTOCOL,PARAMOUNT,"10.611.732,00",1138998,598,2011-12-21
+41,ATIVIDADE PARANORMAL 3,PARANORMAL ACTIVITY 3,PARAMOUNT,"10.132.851,00",1103678,200,2011-10-21
+42,O ZELADOR ANIMAL,THE ZOOKEEPER,SONY,"10.115.611,00",1145788,224,2011-07-10
+43,SANTUÁRIO,SANCTUM,PARIS,"9.363.696,00",667478,277,2011-04-02
+44,"CONAN, O BÁRBARO",CONAN THE BARBARIAN,CALIFORNIA,"8.919.674,00",724009,335,2011-09-16
+45,ENTRANDO NUMA FRIA MAIOR AINDA COM A FAMÍLIA,LITTLE FOCKERS,PARAMOUNT,"8.893.277,00",947081,252,2011-07-01
+46,BESOURO VERDE,THE GREEN HORNET,SONY,"8.419.393,00",723941,430,2011-02-18
+47,RANGO,RANGO,PARAMOUNT,"8.145.816,00",1017250,330,2011-11-03
+48,HAPPY FEET 2,HAPPY FEET 2,WARNER,"7.927.096,00",729786,362,2011-11-25
+49,PÂNICO 4,SCREAM 4,IMAGEM,"7.720.381,00",847435,292,2011-04-15
+50,PADRE,PRIEST,SONY,"7.380.628,00",634625,281,2011-05-13
+51,INVASÃO DO MUNDO: BATALHA DE LOS ANGELES,BATTLE: LOS ANGELES,SONY,"7.030.580,00",766423,263,2011-03-18
+52,PROFESSORA SEM CLASSE,BAD TEACHER,SONY,"7.015.151,00",749741,188,2011-08-19
+53,AS CRÔNICAS DE NÁRNIA: A VIAGEM DO PEREGRINO...,THE CRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER,FOX,"6.990.311,00",802084,556,2010-10-12
+54,O RITUAL,THE RITE,WARNER,"6.428.000,00",718381,151,2011-11-02
+55,ALÉM DA VIDA,HEREAFTER,WARNER,"6.149.221,00",581747,100,2011-07-01
+56,VIPS,VIPS,UNIVERSAL,"5.870.175,00",597905,175,2011-03-25
+57,11-11-11,11-11-11,NOSSA,"5.811.742,00",615575,216,2011-11-11
+58,EU SOU O NÚMERO QUATRO,I AM NUMBER FOUR,DISNEY,"5.552.428,00",606328,230,2011-04-15
+59,SEXO SEM COMPROMISSO,NO STRINGS ATTACHED,PARAMOUNT,"5.539.860,00",572411,140,2011-03-18
+60,DEU A LOUCA NA CHAPEUZINHO 2,HOODWINKED 2: HOOD VS EVIL,IMAGEM,"5.365.545,00",473872,256,2011-02-09
+61,OPERAÇÃO PRESENTE,ARTHUR CHRISTMAS,SONY,"5.154.370,00",477609,241,2011-02-12
+62,VOVÕ...ZONA 3,"BIG MOMMAS: LIKE FATHER, LIKE SON",FOX,"5.113.337,00",603713,117,2011-04-03
+63,TRON: O LEGADO,TRON:LEGACY,DISNEY,"5.091.253,00",455493,480,2010-12-17
+64,JUSTIN BIEBER: NEVER SAY NEVER,JUSTIN BIEBER: NEVER SAY NEVER,PARAMOUNT,"5.045.614,00",449667,288,2011-02-25
+65,CONTÁGIO,CONTAGION,WARNER,"4.946.325,00",475694,143,2011-10-28
+66,INCONTROLÁVEL,UNSTOPPABLE,FOX,"4.765.881,00",514022,227,2011-07-01
+67,A PELE QUE HABITO,LA PIEL QUE HABITO,PARIS,"4.757.351,00",408583,80,2011-04-11
+68,COWBOYS & ALIENS,COWBOYS & ALIENS,PARAMOUNT,"4.710.831,00",508484,308,2011-09-09
+69,QUERO MATAR MEU CHEFE,HORRIBLE BOSSES,WARNER,"4.590.963,00",438359,114,2011-05-08
+70,AS MÃES DE CHICO XAVIER,AS MÃES DE CHICO XAVIER,PARIS,"4.542.499,00",512004,412,2011-01-04
+71,SUPER 8,SUPER 8,PARAMOUNT,"4.434.921,00",452071,261,2011-12-08
+72,IMORTAIS,IMMORTALS,IMAGEM,"4.297.705,00",327189,485,2011-12-30
+73,LARRY CROWNE - O AMOR ESTÁ DE VOLTA,LARRY CROWNE,PARIS,"4.233.595,00",396078,180,2011-09-09
+74,O PREÇO DO AMANHÃ,IN TIME,FOX,"4.119.993,00",427300,124,2011-04-11
+75,O REI LEÃO 3D,THE LION KING 3D,DISNEY,"4.069.169,00",304367,97,2011-08-26
+76,O RETORNO DE JOHNNY ENGLISH,JOHNNY ENGLISH REBORN,UNIVERSAL,"4.068.916,00",442850,188,2011-10-28
+77,OS MUPPETS,THE MUPPETS,DISNEY,"4.051.231,00",470394,276,2011-02-12
+78,NOITE DE ANO NOVO,NEW YEAR'S EVE,WARNER,"3.907.409,00",387256,167,2011-09-12
+79,A GAROTA DA CAPA VERMELHA,RED HIDING HOOD,WARNER,"3.875.995,00",423265,101,2011-04-21
+80,FÚRIA SOBRE RODAS,DRIVE ANGRY,WARNER,"3.838.960,00",339920,307,2011-01-04
+81,ROUBO NAS ALTURAS,TOWER HEIST,UNIVERSAL,"3.799.718,00",393942,218,2011-12-16
+82,OS ESPECIALISTAS,THE KILLER ELITE,IMAGEM,"3.711.193,00",376967,161,2011-02-12
+83,A ÁRVORE DA VIDA,THE TREE OF LIFE,IMAGEM,"3.651.628,00",324005,61,2011-12-08
+84,BRAVURA INDÔMITA,TRUE GRIT,PARAMOUNT,"3.559.511,00",368184,150,2011-11-02
+85,REFÉNS,TRESPASS,IMAGEM,"3.528.073,00",349169,196,2011-11-11
+86,ANIMAIS UNIDOS JAMAIS SERÃO VENCIDOS,KONFERENZ DER TIERE,PLAYARTE,"3.416.678,00",282419,223,2011-03-18
+87,O FILME DOS ESPÍRITOS,O FILME DOS ESPÍRITOS,PARIS,"3.099.967,00",325160,144,2011-07-10
+88,"WINTER, O GOLFINHO",DOLPHIN TALE,WARNER,"3.080.256,00",273804,210,2011-10-14
+89,SEM LIMITES,LIMITLESS,IMAGEM,"3.073.621,00",295771,117,2011-03-25
+90,AMOR E OUTRAS DROGAS,LOVE AND OTHER DRUGS,FOX,"3.040.423,00",316354,95,2011-01-28
+91,O NOIVO DA MINHA MELHOR AMIGA,SOMETHING BORROWED,PLAYARTE,"3.022.966,00",325867,184,2011-05-13
+92,AMOR A TODA PROVA,"CRAZY, STUPID, LOVE",WARNER,"2.967.431,00",291317,131,2011-08-26
+93,EU QUERIA TER A SUA VIDA,THE CHANGE UP,UNIVERSAL,"2.954.404,00",299451,142,2011-07-10
+94,HOP - REBELDES SEM PÁSCOA,HO,UNIVERSAL,"2.936.853,00",343083,305,2011-04-22
+95,UM CONTO CHINÊS,UM CUENTO CHINO,PARIS,"2.849.462,00",236176,17,2011-02-09
+96,DESCONHECIDO,UNKNOWN,WARNER,"2.810.366,00",299937,100,2011-02-25
+97,A HORA DO ESPANTO,FRIGHT NIGHT,DISNEY,"2.694.541,00",201812,243,2011-07-10
+98,DESENROLA,DESENROLA,DTF/RIOF,"2.685.816,00",332757,133,2011-01-14
+99,A CASA DOS SONHOS,DREAM HOUSE,WARNER,"2.573.833,00",274257,156,2011-04-11
+100,72 HORAS,THE NEXT THREE DAYS,IMAGEM,"2.571.327,00",264474,122,2010-12-24
+101,APOLLO 18,APOLLO 18,PLAYARTE,"2.542.312,00",257077,178,2011-02-09
+102,TERROR NA ÁGUA 3D,SHARK NIGHT 3D,DISNEY,"2.385.911,00",180343,208,2011-04-11
+103,ÁGUA PARA ELEFANTES,WATER FOR ELEPHANTS,FOX,"2.384.690,00",244148,132,2011-04-29
+104,COMPRAMOS UM ZOOLÓGICO,WE BOUGHT A ZOO,FOX,"2.371.108,00",269747,223,2011-12-23
+105,MEGAMENTE,MEGAMIND,PARAMOUNT,"2.309.512,00",317107,463,2010-03-12
+106,MANDA CHUVA - O FILME,TOP CAT,PLAYARTE,"2.210.194,00",223778,271,2011-09-16
+107,PASSE LIVRE,HALL PASS,WARNER,"2.068.677,00",226871,151,2011-11-03
+108,OS AGENTES DO DESTINO,THE ADJUSTMENT BUREAU,UNIVERSAL,"2.066.367,00",196041,90,2011-05-13
+109,127 HORAS,127 HOURS,FOX,"2.046.971,00",194627,62,2011-02-18
+110,A REDE SOCIAL,THE SOCIAL NETWORK,SONY,"1.978.887,00",200353,161,2010-03-12
+111,NÃO SEI COMO ELA CONSEGUE,I DONT KNOW HOW SHE DOES IT,IMAGEM,"1.847.244,00",180012,98,2011-11-25
+112,CONTRA O TEMPO,SOURCE CODE,IMAGEM,"1.842.547,00",176068,80,2011-09-30
+113,SUCKER PUNCH - MUNDO SURREAL,SUCKER PUNCH,WARNER,"1.787.099,00",198641,181,2011-03-25
+114,O VENCEDOR,THE FIGHTER,IMAGEM,"1.726.525,00",174689,122,2011-04-02
+115,ONDE ESTÁ A FELICIDADE?,ONDE ESTÁ A FELICIDADE?,FOX,"1.643.375,00",183607,168,2011-08-19
+116,SOBRENATURAL,INSIDIOUS,PLAYARTE,"1.601.407,00",172552,95,2011-04-21
+117,UMA MANHÃ GLORIOSA,MORNING GLORY,PARAMOUNT,"1.536.707,00",142820,80,2011-01-04
+118,ATIVIDADE PARANORMAL EM TÓQUIO,ACTIVITY: TOKYO NIGHT,PLAYARTE,"1.505.777,00",164080,100,2011-03-25
+119,COMO VOCÊ SABE,HOW DO YOU KNOW,IMAGEM,"1.488.922,00",136486,81,2011-04-29
+120,MELANCOLIA,MELANCHOLIA,CALIFORNIA,"1.481.326,00",134868,32,2011-05-08
+121,CAPITÃES DA AREIA,CAPITÃES DA AREIA,IMAGEM,"1.478.029,00",171065,115,2011-07-10
+122,HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 1,HARRY POTTER AND THE DEATHLY HALLOWS - PART 1,WARNER,"1.411.195,00",172309,861,2010-11-19
+123,AS AVENTURAS DE SAMMY,SAMMY ADVENTURES,PLAYARTE,"1.390.483,00",135593,199,2011-01-28
+124,QUAL É O SEU NÚMERO?,WHAT´S YOUR NUMBER?,FOX,"1.314.151,00",135717,70,2011-10-14
+125,MISSÃO MADRINHA DE CASAMENTO,BRIDESMAIDS,UNIVERSAL,"1.285.869,00",132394,153,2011-09-23
+126,UM DIA,ONE DAY,UNIVERSAL,"1.284.062,00",101304,41,2011-02-12
+127,"NÃO SE PREOCUPE, NADA VAI DAR CERTO","NÃO SE PREOCUPE, NADA VAI DAR CERTO",IMAGEM,"1.258.504,00",143362,121,2011-05-08
+128,CÓPIA FIEL,COPIE CONFORME,IMOVISION,"1.227.230,00",111964,9,2011-03-18
+129,O DIÁRIO DE UM BANANA 2: RODDICK É O CARA,DIARY OF A WIMPY KID: RODRICK RULES,FOX,"1.196.726,00",164602,50,2011-09-16
+130,POTICHE: ESPOSA TROFÉI,POTICHE,IMOVISION,"1.165.636,00",105342,38,2011-06-23
+131,MUITA CALMA NESSA HORA,MUITA CALMA NESSA HORA,EUR/RIOF,"1.145.152,00",140435,176,2010-12-11
+132,TUPO PELO PODER,THE IDES OF MARCH,CALIFORNIA,"1.129.705,00",96476,91,2011-12-23
+133,NAMORADOS PARA SEMPRE,BLUE VALENTINE,PARIS,"1.103.209,00",105371,65,2011-10-06
+134,JOGO DO PODER,FAIR GAME,PARIS,"1.035.345,00",92541,78,2011-03-18
+135,BIUTIFUL,BIUTIFUL,PARIS,"1.016.807,00",96673,32,2011-01-21
+136,FAMÍLIA VENDE TUDO,FAMÍLIA VENDE TUDO,PLAYARTE,"1.014.899,00",116247,152,2011-09-30
+137,NÃO TENHA MEDO DO ESCURO,DONT BE AFRAID OF THE DARK,VINNY,"1.008.156,00",108529,114,2011-10-14
+138,BRASIL ANIMADO 3D,BRASIL ANIMADO 3D,IMAGEM,"915.851,00",110197,194,2011-01-21
+139,O PODER E A LEI,THE LINCOLN LAWYER,IMAGEM,"861.125,00",80378,60,2011-05-27
+140,O GAROTO DE BICICLETA,LE GAMIN AU VÉLO,IMOVISION,"847.195,00",75659,17,2011-11-18
+141,O URSINHO POOH,WINNIE THE POOH,DISNEY,"816.404,00",108080,105,2011-08-07
+142,PRONTA PARA AMAR,A LITTLE BIT OF HEAVEN,IMAGEM,"801.285,00",79032,60,2011-09-16
+143,MEDIANERAS: BUENOS AIRES DA ERA DO AMOR VIRTUAL,MEDIANERAS,IMOVISION,"798.748,00",68804,9,2011-02-09
+144,MINHAS TARDES COM MARGUERITTE,LA TÊTE EM FRICHE,IMOVISION,"766.955,00",70878,6,2011-05-27
+145,ASSASSINO A PREÇO FIXO,THE MECHANIC,IMAGEM,"756.649,00",83773,90,2011-03-18
+146,A INQUILINA,THE RESIDENT,PARIS,"720.159,00",71181,46,2011-07-22
+147,ASSALTO EM DOSE DUPLA,FLYPAPER,CALIFORNIA,"664.853,00",71570,42,2011-11-25
+148,BURLESQUE,BURLESQUE,SONY,"655.414,00",74179,104,2011-11-02
+149,UM LUGAR QUALQUER,SOMEWHERE,UNIVERSAL,"647.046,00",57937,15,2011-01-28
+150,HOMENS E DEUSES,DES HOMMES ET DES DIEUX,IMOVISION,"636.947,00",55809,11,2011-04-15
