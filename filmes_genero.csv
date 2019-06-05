@@ -1,0 +1,894 @@
+﻿id,título_original,genero,subgenero
+0,The Fate of the Furious,Action,Crime
+1,Justice league,Action,Adventure
+2,Beauty and the Beast,Family,Fantasy
+3,Despicable me 3,Action,Animation
+4,Wonder Woman,Adventure,Fantasy
+5,Spider-man - Homecoming,Action,Adventure
+6,Thor: Ragnarok,Action,Adventure
+7,Logan,Action,Drama
+8,Minha mãe é uma peça 2,Comedy,Placeholder
+9,The Shack,Drama,Fantasy
+10,Moana,Adventure,Comedy
+11,The Guardians of the Galaxy 2,Action,Adventure
+12,Fifty shades darker,Drama,Romance
+13,It,Horror,Thriller
+14,Pirates of the Caribbean: Dead men tell no tales,Adventure,Action
+15,Star Wars - The last jedi,Fantasy,Adventure
+16,Wonder,Drama,Family
+17,The mummy,Adventure,Action
+18,The boss baby,Animation,Comedy
+19,War for the Planet of the Apes,Drama,Science Fiction
+20,Transformers: The last knight,Action,Science Fiction
+21,Annabelle 2,Horror,Mystery
+22,Cars 3,Adventure,Animation
+23,Assassin's Creed,Action,Adventure
+24,Kong - Skull Island,Action,Adventure
+25,The Great Wall,Action,Adventure
+26,The Emoji Movie,Animation,Family
+27,La la Land,Comedy,Drama
+28,Passengers,Drama,Romance
+29,Polícia Federal - A lei é para todos,Action,Thriller
+30,Woody Woodpecker,Animation,Comedy
+31,Rings,Horror,Placeholder
+32,Smurfs: The lost village,Adventure,Animation
+33,The Lego Batman Movie,Action,Animation
+34,XXX - The return of Xander Cage,Action,Adventure
+35,Resident Evil: The Final Chapter,Action,Horror
+36,"Parças, Os",Comedy,Placeholder
+37,Blade runner 2049,Science Fiction,Action
+38,Murder on the Orient Express,Crime,Drama
+39,Kingsman: The golden circle,Action,Adventure
+40,Detetives do prédio azul,Action,Adventure
+41,Power Rangers,Action,Adventure
+42,King Arthur - Legend of the sword,Action,Drama
+43,Split,Horror,Thriller
+44,Sing,Animation,Comedy
+45,Dunkirk,War,Action
+46,Geostorm,Action,Science Fiction
+47,Happy death day,Horror,Mystery
+48,The Dark Tower,Action,Fantasy
+49,Ghost in the Shell,Action,Science Fiction
+50,Alien: Covenant,Horror,Science Fiction
+51,Jigsaw,Crime,Horror
+52,Baby Driver,Action,Crime
+53,American made,Action,Crime
+54,Meus 15 anos,Drama,Comedy
+55,Collateral beauty,Drama,Romance
+56,Rogue One: A Star Wars Story,Action,Adventure
+57,Baywatch,Action,Comedy
+58,Captain underpants: The First Epic Movie,Action,Animation
+59,The Circle,Drama,Thriller
+60,"mother!,",Drama,Horror
+61,"Fala sério, mãe!",Comedy,Family
+62,"Tio quase perfeito, Um",Comedy,Placeholder
+63,Valerian and the city of a thousand planets,Adventure,Science Fiction
+64,The mountain between us,Romance,Adventure
+65,John Wick 2,Thriller,Action
+66,Ballerina,Animation,Adventure
+67,A dog's purpose,Comedy,Drama
+68,Eu fico loko,Comedy,Placeholder
+69,Como se tornar o pior aluno da escola,Comedy,Placeholder
+70,allied,Action,Drama
+71,Hidden figures,Drama,History
+72,Divórcio,Comedy,Placeholder
+73,Daddy's home 2,Comedy,Placeholder
+74,The star,Fantasy,Adventure
+75,Moonlight,Drama,Placeholder
+76,Atomic blonde,Action,Mystery
+77,Get Out,Mystery,Thriller
+78,"Penetras 2 - Quem dá mais?, Os",Comedy,Placeholder
+79,Life,Horror,Science Fiction
+80,Internet - o filme,Comedy,Placeholder
+81,The Lego Ninjago movie,Action,Animation
+82,Hacksaw ridge,Drama,History
+83,Monster Trucks,Action,Comedy
+84,The greatest showman,Drama,Placeholder
+85,Hebecta,Placeholder,Placeholder
+86,"Filme da minha vida, O",Drama,Placeholder
+87,Lino - O filme,Placeholder,Placeholder
+88,The son of bigfoot,Animation,Comedy
+89,Bingo - O rei das manhãs,Comedy,Drama
+90,Duas de mim,Comedy,Placeholder
+91,Lion,Drama,Placeholder
+92,Train to busan,Action,Horror
+93,The Hitman's Bodyguard,Action,Comedy
+94,Jumanji - Welcome to the jungle,Action,Adventure
+95,Tadeo Jones 2 - El secreto del Rey Midas,Animation,Adventure
+96,Wish upon,Thriller,Horror
+97,Como nossos pais,Drama,Placeholder
+98,"TOC - Transtornada, obsessiva, compulsiva",Comedy,Placeholder
+99,Flatliners,Drama,Science Fiction
+100,The Autopsy of Jane Doe,Horror,Mystery
+101,Before I fall,Drama,Mystery
+102,Ninguém entra ninguém sai,Comedy,Placeholder
+103,Ozzy,Animation,Family
+104,Gosto se discute,Comedy,Placeholder
+105,Going in style,Crime,Comedy
+106,American Assassin,Action,Thriller
+107,Paris Can Wait,Romance,Placeholder
+108,Amityville,Horror,Placeholder
+109,Chocante,Comedy,Placeholder
+110,Victoria and Abdul,Drama,History
+111,Incarnate,Horror,Thriller
+112,Happy Family,Animation,Family
+113,Manchester by the sea,Drama,Placeholder
+114,The Beguiled,Drama,Western
+115,My little pony - the movie,Music,Adventure
+116,"Everything, Everything",Drama,Romance
+117,Nocturnal animals,Drama,Thriller
+118,"João, o maestro",Documentary,Placeholder
+119,Snezhnaya koroleva 3. Ogon i led,Family,Animation
+120,Nieve negra,Mystery,Drama
+121,Fences,Drama,Placeholder
+122,Demain tout commence,Drama,Comedy
+123,Malasartes e o duelo com a morte,Comedy,Placeholder
+124,Bugigangue no espaço,Animation,Placeholder
+125,Sully,Drama,History
+126,Monsieur & Madame Adelman,Romance,Drama
+127,The Case for Christ,Drama,Placeholder
+128,Jackie,Drama,Placeholder
+129,A Cure for Wellness,Horror,Mystery
+130,Rock dog,Adventure,Animation
+131,"I, Daniel Blake",Drama,Placeholder
+132,The Nut Job 2: Nutty by nature,Family,Animation
+133,El ciudadano ilustre,Comedy,Drama
+134,Captain fantastic,Adventure,Comedy
+135,The founder,Drama,History
+136,Patriots day,Action,Drama
+137,Silence,Drama,History
+138,"Gostosas, lindas e sexies",Comedy,Placeholder
+139,"Rastro, O",Thriller,Placeholder
+140,Saltimbancos Trapalhões,Adventure,Comedy
+141,Amor.com,Romance,Placeholder
+142,Diary of a wimpy kid - The long haul,Comedy,Family
+143,Norman: The moderate rise and tragic fall of a New York fixer,Comedy,Thriller
+144,Loving Vicent,Placeholder,Placeholder
+145,"Vendedor de sonhos, O",Drama,Placeholder
+146,The snowman,Drama,Crime
+147,Richard the stork,Family,Fantasy
+148,Hell or High Water,Crime,Drama
+149,Entre irmãs,Drama,Placeholder
+150,Minions,Family,Animation
+151,Jurassic World,Action,Adventure
+152,Fifty Shades of Grey,Drama,Romance
+153,Star Wars: Episode VII,Action,Adventure
+154,The Hunger Games - Mockinjay Part 2,Science Fiction,Adventure
+155,Cinderella,Romance,Fantasy
+156,Sponge Bob Square Pants 2,Placeholder,Placeholder
+157,Loucas pra casar,Comedy,Placeholder
+158,The Inside Out,Placeholder,Placeholder
+159,Vai que cola - O filme,Comedy,Placeholder
+160,Hotel Transylvania 2,Animation,Comedy
+161,Ant-Man,Science Fiction,Action
+162,The Penguins of Madagascar,Animation,Placeholder
+163,Exodus - Gods and Kings,Adventure,Drama
+164,Insurgent,Action,Adventure
+165,Mission: Impossible 5 - Rogue Nation,Action,Placeholder
+166,Terminator: Genisys,Science Fiction,Action
+167,The last witch hunter,Fantasy,Action
+168,Pixels,Action,Comedy
+169,Mad Max - Fury Road,Action,Adventure
+170,Meu passado me condena 2,Comedy,Romance
+171,San Andreas,Action,Drama
+172,Spectre,Action,Adventure
+173,Night at the Museum: Secret of the Tomb,Adventure,Comedy
+174,The Martian,Drama,Adventure
+175,Le petit prince,TV Movie,Family
+176,"Carrossel, o filme",Comedy,Family
+177,Maze Runner - Scorch Trials,Action,Science Fiction
+178,Pan,Adventure,Family
+179,Home,Fantasy,Comedy
+180,The Fantastic Four,Adventure,Fantasy
+181,Paranormal Activity: The Ghost Dimension,Horror,Thriller
+182,Big Hero 6,Adventure,Family
+183,S.O.S Mulheres ao mar 2,Comedy,Romance
+184,Paper towns,Drama,Mystery
+185,Taken 3,Thriller,Action
+186,Jupiter Ascending,Science Fiction,Fantasy
+187,Alvin and the Chipmunks 4,Adventure,Animation
+188,Poltergeist,Horror,Placeholder
+189,American Sniper,War,Action
+190,Focus,Romance,Comedy
+191,In the Heart of the Sea,Thriller,Drama
+192,"Caras de pau em o misterioso roubo do anel, Os",Comedy,Placeholder
+193,Linda de morrer,Comedy,Placeholder
+194,Kingsmen: The Secret Service,Placeholder,Placeholder
+195,Até que a sorte nos separe 3,Comedy,Placeholder
+196,The Theory Of Everything,Drama,Romance
+197,Qualquer gato vira lata 2,Romance,Comedy
+198,Ted 2,Comedy,Placeholder
+199,Tomorrowland,Adventure,Family
+200,The Intern,Comedy,Placeholder
+201,Victor Frankenstein,Drama,Science Fiction
+202,TinkerBell and the Legend of the Never Beast,Placeholder,Placeholder
+203,The Imitation Game,History,Drama
+204,Insidious: Chapter 3,Drama,Horror
+205,Sinister 2,Horror,Placeholder
+206,The Hobbit - The Battle of the Five Armies,Action,Adventure
+207,Everest,Adventure,Drama
+208,Goosebumps,Adventure,Horror
+209,The Seventh Son,Adventure,Fantasy
+210,Bridge of spies,Thriller,Drama
+211,Bem casados,Romance,Comedy
+212,Que horas ela volta?,Drama,Placeholder
+213,Birdman,Drama,Comedy
+214,Vacation,Comedy,Placeholder
+215,Still Alice,Drama,Placeholder
+216,"Love, Rosie",Comedy,Romance
+217,Entre abelhas,Comedy,Drama
+218,Fury,War,Drama
+219,The Man from U.N.C.L.E,Comedy,Action
+220,The Lazarus Effect,Thriller,Horror
+221,Spy,Action,Comedy
+222,Superpai,Comedy,Placeholder
+223,Into the woods,Fantasy,Comedy
+224,Snow Queen 2,Fantasy,Family
+225,Scouts Guide to the Zombie Apocalypse,Comedy,Horror
+226,Burnt,Drama,Comedy
+227,Chappie,Crime,Action
+228,Operações especiais,Action,Thriller
+229,The Woman in Black 2 - Angel of Death,Thriller,Horror
+230,Dragon Ball Z: Resurrection,Action,Adventure
+231,Hitman: Agent 47,Action,Crime
+232,The Cobbler,Fantasy,Comedy
+233,Crimson Peak,Drama,Fantasy
+234,War room,Drama,Romance
+235,Do You Believe?,Fantasy,Drama
+236,Unbroken,Drama,War
+237,Demonic,Thriller,Horror
+238,Black Mass,Drama,Crime
+239,Run All Night,Action,Drama
+240,Irrational Man,Drama,Mystery
+241,The Vatican Tapes,Thriller,Horror
+242,The secret in their eyes,Crime,Drama
+243,Danny Collins,Comedy,Drama
+244,The Age of Adaline,Fantasy,Drama
+245,Magic Mike XXL,Comedy,Drama
+246,The Walk,Adventure,Drama
+247,The Transporter Refueled,Thriller,Action
+248,Gallows,Horror,Thriller
+249,The visit,Horror,Thriller
+250,Relatos Salvajes,Drama,Thriller
+251,Samba,Drama,Comedy
+252,Ricki and the Flash,Comedy,Drama
+253,Kidnapping Mr. Heineken,Drama,Action
+254,Qu'est-e qu'on a fait a bon dieu?,Comedy,Placeholder
+255,Divã a 2,Comedy,Crime
+256,Le Sel de La Terre,Documentary,Placeholder
+257,Jessabelle,Thriller,Horror
+258,Whiplash,Drama,Music
+259,Ouija,Horror,Placeholder
+260,The gunman,Action,Drama
+261,Entrando numa roubada,Drama,Action
+262,The Longest Ride,Drama,Romance
+263,Woman in Gold,Drama,Placeholder
+264,Grace of Monaco,Romance,Drama
+265,Aloha,Drama,Comedy
+266,Pitch perfect 2,Comedy,Music
+267,The Interview,Action,Comedy
+268,"Esperança é a última que morre, A",Comedy,Placeholder
+269,Wild,Drama,Placeholder
+270,Chico - artista brasileiro,Documentary,Placeholder
+271,Shaun the sheep,Family,Animation
+272,St. Vincent,Comedy,Placeholder
+273,The Possession Of Michael King,Horror,Placeholder
+274,El clan,Drama,History
+275,Mary`s land,Documentary,Comedy
+276,Good people,Thriller,Crime
+277,While We're Young,Comedy,Drama
+278,The gift,Thriller,Mystery
+279,The Best exotic Marigold Hotel 2,Placeholder,Placeholder
+280,Big eyes,Drama,Placeholder
+281,Boyhood,Drama,Placeholder
+282,Ida,Drama,Placeholder
+283,"Vendedor de passados, O",Drama,Placeholder
+284,Los 33,Drama,History
+285,Snowpiercer,Action,Science Fiction
+286,La Famille Bélier,Comedy,Drama
+287,Superfast,Action,Comedy
+288,Outcast,Action,Placeholder
+289,Nightcrawler,Crime,Drama
+290,The boy next door,Thriller,Placeholder
+291,Minuscule - La Vallée des Fourmis Perdues,Animation,Adventure
+292,Annie,Comedy,Drama
+293,Maleficent,Fantasy,Adventure
+294,The Fault in Our Stars,Romance,Drama
+295,Noah,Drama,Adventure
+296,X-Men - Days of Future Past,Action,Adventure
+297,Rio 2,Adventure,Comedy
+298,Captain America - The Winter Soldier,Action,Adventure
+299,Transformers: Age of Extinction,Science Fiction,Action
+300,The Hunger Games: Mockinjay - Part 1,Science Fiction,Adventure
+301,Dawn of the Planet of the Apes,Science Fiction,Action
+302,How to Train Your Dragon 2,Fantasy,Action
+303,The Amazing Spider-Man 2: The Rise of Electro,Action,Adventure
+304,Frozen,Animation,Adventure
+305,The Hobbit - The Battle of the Five Armies,Action,Adventure
+306,Teenage Mutant Ninja Turtles,Science Fiction,Action
+307,Annabelle,Horror,Placeholder
+308,300 - Rise of an Empire,Action,War
+309,Guardians of the Galaxy,Action,Science Fiction
+310,Até que a sorte nos separe 2,Comedy,Placeholder
+311,Dumb and Dumber 2,Comedy,Placeholder
+312,RoboCop,Action,Science Fiction
+313,Hercules,Action,Adventure
+314,Dracula Untold,Horror,Action
+315,O candidato honesto,Comedy,Placeholder
+316,The Expendables 3,Action,Adventure
+317,Exodus - Gods and Kings,Adventure,Drama
+318,Blended,Comedy,Placeholder
+319,Lucy,Action,Science Fiction
+320,Os homens sao de Marte... e é para lá que eu vou,Placeholder,Placeholder
+321,S.O.S Mulheres ao mar,Romance,Comedy
+322,Godzilla,Action,Drama
+323,The Maze Runner,Action,Mystery
+324,Interstellar,Adventure,Drama
+325,The Book Thief,Drama,Placeholder
+326,Muita calma nessa hora 2,Comedy,Placeholder
+327,Mr. Peabody & Sherman,Animation,Adventure
+328,Big Hero 6,Adventure,Family
+329,Vestido pra casar,Placeholder,Placeholder
+330,The Wolf of Wall Street,Crime,Drama
+331,Divergent,Action,Adventure
+332,"I, Frankenstein",Horror,Thriller
+333,The Lego Movie,Adventure,Animation
+334,The Book of Life,Romance,Animation
+335,Paranormal Activity: The Marked Ones,Horror,Thriller
+336,Tarzan,Adventure,Animation
+337,Pompeii,Action,Adventure
+338,Alemão,Action,Drama
+339,Non-Stop,Action,Thriller
+340,Tim Maia,Drama,Music
+341,Edge of Tomorrow,Action,Science Fiction
+342,Deliver Us From Evil,Thriller,Crime
+343,American Hustle,Drama,Crime
+344,The Equalizer,Thriller,Action
+345,Confissoes de adolescente,Adventure,Comedy
+346,The Legend of Hercules,Action,Adventure
+347,Walking with Dinosaurs,Animation,Family
+348,Os caras de pau em o misterioso roubo do anel,Comedy,Placeholder
+349,Need for Speed,Action,Crime
+350,The Hobbit - The Desolation of Smaug,Adventure,Fantasy
+351,Copa de elite,Comedy,Placeholder
+352,Planes: Fire & Rescue,Animation,Comedy
+353,47 Ronin,Drama,Action
+354,Gone Girl,Mystery,Thriller
+355,12 Years a Slave,Drama,History
+356,Horrible Bosses 2,Comedy,Placeholder
+357,Left Behind,Thriller,Action
+358,Legends of Oz: Dorothy s Return,Animation,Music
+359,The Giver,Drama,Science Fiction
+360,The Monuments Men,War,Drama
+361,If I Stay,Drama,Placeholder
+362,Getúlio,Drama,Placeholder
+363,The Other Woman,Comedy,Romance
+364,The Judge,Drama,Placeholder
+365,Neighbors,Comedy,Placeholder
+366,Saint Seya : Legend of Sanctuary,Placeholder,Placeholder
+367,Tinkerbell - The Pirate Fairy,Animation,Family
+368,Into the Storm,Action,Thriller
+369,The Beauty and the Beast,Family,Fantasy
+370,The Grand Budapest Hotel,Comedy,Drama
+371,22 Jump Street,Crime,Comedy
+372,Ouija,Horror,Placeholder
+373,Relatos Salvajes,Drama,Thriller
+374,The Secret Life of Walter Mitty,Adventure,Comedy
+375,Sex Tape,Comedy,Placeholder
+376,A Walk Among the Tombstones,Crime,Drama
+377,Jack Ryan,Action,Drama
+378,Made in China,Comedy,Drama
+379,The House of Magic,Family,Fantasy
+380,John Wick,Action,Thriller
+381,The Boxtrolls,Animation,Comedy
+382,A noite da virada,Placeholder,Placeholder
+383,Transcendence,Thriller,Science Fiction
+384,Devil's Due,Horror,Placeholder
+385,Paddington,Comedy,Adventure
+386,Magic in the Moonlight,Comedy,Drama
+387,August: Osage County,Comedy,Drama
+388,Fading Gigolo,Comedy,Placeholder
+389,A haunted house 2,Comedy,Horror
+390,That Awkward Moment,Comedy,Romance
+391,Nymphomaniac,Drama,Mystery
+392,Trash,Adventure,Crime
+393,Khumba,Animation,Adventure
+394,Philomena,Drama,Placeholder
+395,Na quebrada,Drama,Placeholder
+396,"Alexander and The Terrible, Horrible, Not Good, Very Bad Day",Placeholder,Placeholder
+397,The Nut Job,Animation,Comedy
+398,God's Not Dead,Drama,Placeholder
+399,Hoje eu quero voltar sozinho,Drama,Romance
+400,Irmã Dulce,Drama,Placeholder
+401,Her,Romance,Science Fiction
+402,Julio sumiu,Drama,Comedy
+403,Oculus,Horror,Placeholder
+404,Dallas Buyers Club,Drama,History
+405,Chef,Comedy,Placeholder
+406,Boa sorte,Drama,Placeholder
+407,Begin Again,Comedy,Music
+408,La grande bellezza,Drama,Placeholder
+409,Ender s game,Science Fiction,Action
+410,Tokarev,Action,Crime
+411,Praia do Futuro,Drama,Placeholder
+412,Delivery Man,Comedy,Placeholder
+413,The Best of Me,Drama,Romance
+414,Grudge Match,Comedy,Placeholder
+415,The Physician,Adventure,Drama
+416,Boyhood,Drama,Placeholder
+417,Lone Survivor,Action,Drama
+418,Sin City 2,Crime,Thriller
+419,"Rio, eu te amo",Drama,Romance
+420,Nymphomaniac,Drama,Mystery
+421,Son of God,Drama,Placeholder
+422,"Men, women and children",Drama,Comedy
+423,Brick Mansions,Action,Crime
+424,Não pare na pista,Drama,History
+425,Una pistola en cada mano,Comedy,Romance
+426,O casamento de Gorete,Comedy,Placeholder
+427,Amazonia,Family,Adventure
+428,Causa e efeito,Placeholder,Placeholder
+429,Justin Bieber's Believe,Placeholder,Placeholder
+430,The November Man,Crime,Action
+431,The Hundred-Foot Journey,Drama,Placeholder
+432,Entre nós,Drama,Placeholder
+433,Isolados,Thriller,Placeholder
+434,And So It Goes,Comedy,Drama
+435,Nightcrawler,Crime,Drama
+436,Love Punch,Comedy,Drama
+437,Saving Mr. Banks,Comedy,Drama
+438,Last Vegas,Comedy,Placeholder
+439,Anchorman 2,Comedy,Placeholder
+440,The Immigrant,Drama,Romance
+441,The Games Maker 3D,Placeholder,Placeholder
+442,Séptimo,Thriller,Placeholder
+443,Iron Man 3,Action,Adventure
+444,Despicable Me 2,Animation,Comedy
+445,Thor - The Dark World,Action,Adventure
+446,Minha mae é uma peça - O filme,Comedy,Placeholder
+447,The Wolverine,Action,Drama
+448,The Fast and the Furious 6,Action,Thriller
+449,Hansel & Gretel - Witch Hunters,Fantasy,Horror
+450,De pernas pro ar 2,Comedy,Romance
+451,Wreck-It Ralph,Family,Animation
+452,The Hunger Games - Catching Fire,Adventure,Action
+453,Monsters University,Animation,Family
+454,Man of Steel,Action,Adventure
+455,The Hangover - Part 3,Comedy,Placeholder
+456,Meu passado me condena,Comedy,Placeholder
+457,The Hobbit - The Desolation of Smaug,Adventure,Fantasy
+458,The Croods,Action,Adventure
+459,The Smurfs 2,Fantasy,Family
+460,World War Z,Action,Drama
+461,Vai que dá certo,Comedy,Placeholder
+462,Cloudy with a Chance of Meatballs 2,Animation,Family
+463,Percy Jackson & the Olympians: The Sea of Monsters,Adventure,Family
+464,"Oz, The Great and Powerful",Fantasy,Adventure
+465,Elysium,Science Fiction,Action
+466,G.I. Joe 2: Retaliation,Adventure,Action
+467,Life of Pi,Adventure,Drama
+468,Somos tão jovens,Drama,Music
+469,Crô,Comedy,Placeholder
+470,Gravity,Science Fiction,Thriller
+471,The Conjuring,Horror,Thriller
+472,A Good Day to Die Hard,Action,Thriller
+473,Grown-Ups 2,Comedy,Placeholder
+474,Epic,Animation,Adventure
+475,Silver Linings Playbook,Drama,Comedy
+476,Now You See Me,Thriller,Crime
+477,Faroeste caboclo,Crime,Drama
+478,Pacific Rim,Action,Science Fiction
+479,Planes,Animation,Family
+480,Django Unchained,Drama,Western
+481,"Concurso, O",Comedy,Placeholder
+482,After Earth,Science Fiction,Action
+483,Turbo,Animation,Family
+484,Jack the Giant Slayer,Action,Adventure
+485,Oblivion,Action,Science Fiction
+486,Mato sem cachorro,Comedy,Placeholder
+487,Star Trek Into Darkness,Action,Adventure
+488,Free Birds,Animation,Comedy
+489,The Internship,Comedy,Placeholder
+490,A Haunted House,Comedy,Horror
+491,Lincoln,History,Drama
+492,Cloud Atlas,Drama,Science Fiction
+493,Les Misérables,History,Drama
+494,The Lone Ranger,Action,Adventure
+495,Até que a sorte nos separe 2,Comedy,Placeholder
+496,Beautiful Creatures,Fantasy,Drama
+497,The Hobbit: An Unexpected Journey,Adventure,Fantasy
+498,White House Down,Action,Drama
+499,The Heat,Action,Comedy
+500,Last Vegas,Comedy,Placeholder
+501,"Tempo e o vento, O",Drama,Placeholder
+502,Captain Phillips,Action,Drama
+503,Las aventuras de Tadeo Jones,Animation,Comedy
+504,Mama,Horror,Placeholder
+505,The Mortal Instruments - City of Bones,Action,Adventure
+506,Parental Guidance,Comedy,Placeholder
+507,Flight,Drama,Placeholder
+508,Carrie,Horror,Thriller
+509,Olympus Has Fallen,Action,Thriller
+510,Scary Movie 5,Comedy,Placeholder
+511,Jack Reacher,Crime,Drama
+512,Red 2,Action,Comedy
+513,The Secret Life of Walter Mitty,Adventure,Comedy
+514,Where the Millers,Placeholder,Placeholder
+515,Prisoners,Drama,Thriller
+516,The Host,Action,Adventure
+517,Warm Bodies,Horror,Comedy
+518,Cine Holliúdy,Comedy,Placeholder
+519,Blue Jasmine,Comedy,Drama
+520,The Great Gatsby,Drama,Romance
+521,The Last Stand,Action,Crime
+522,Jackass Presents: Bad Grandpa,Comedy,Placeholder
+523,Escape plan,Action,Thriller
+524,Odeio o dia dos namorados,Comedy,Placeholder
+525,Se puder... dirija!,Comedy,Placeholder
+526,Serra Pelada,Drama,Western
+527,Evil Dead,Horror,Placeholder
+528,Insidious: Chapter 2,Horror,Thriller
+529,"Penetras, Os",Comedy,Placeholder
+530,The Impossible,Thriller,Drama
+531,Metegol,Animation,Adventure
+532,Dragon Ball Z - Battle of God,Animation,Action
+533,"Busca, A",Drama,Placeholder
+534,Ender s game,Science Fiction,Action
+535,Riddick 3,Science Fiction,Action
+536,Flores raras,Drama,Romance
+537,Jobs,Drama,History
+538,The Counselor,Thriller,Crime
+539,Sammy 2: The Great Escape,Placeholder,Placeholder
+540,"Tainá, a origem",Adventure,Placeholder
+541,The Last Exorcism Part II,Horror,Thriller
+542,R.I.P.D,Fantasy,Action
+543,Rush,Drama,Action
+544,Zero Dark Thirty,Thriller,Drama
+545,Runner,Crime,Thriller
+546,Amour,Drama,Romance
+547,Stolen,Action,Crime
+548,Escape from Planet Earth,Animation,Comedy
+549,The Big Wedding,Comedy,Placeholder
+550,Anna Karenina,Drama,Romance
+551,2 Guns,Action,Comedy
+552,Gangster Squad,Crime,Drama
+553,The Family,Crime,Comedy
+554,The Snow Queen,Animation,Fantasy
+555,Snitch,Thriller,Drama
+556,Giovanni Improtta,Placeholder,Placeholder
+557,21 and Over,Comedy,Placeholder
+558,Texas Chainsaw 3D,Horror,Thriller
+559,Don Jon,Romance,Comedy
+560,One Direction: This is us,Documentary,Music
+561,Identity Thief,Comedy,Crime
+562,The Twilight Saga: Breaking Down - The Final,Placeholder,Placeholder
+563,Broken City,Thriller,Crime
+564,Side Effects,Thriller,Crime
+565,Colegas,Drama,Placeholder
+566,Hannah Arendt,Drama,Placeholder
+567,Vendo ou alugo,Comedy,Placeholder
+568,This is the End,Action,Comedy
+569,Casa da mãe Joana 2,Comedy,Placeholder
+570,Argo,Drama,Thriller
+571,Los amantes pasajeros,Comedy,Placeholder
+572,Monsters Inc 3D,Animation,Family
+573,Before Midnight,Romance,Drama
+574,The Bling Ring,Drama,Crime
+575,Safe Haven,Romance,Placeholder
+576,About Time,Comedy,Drama
+577,The Call,Crime,Thriller
+578,Rise of the Guardians,Animation,Family
+579,Minhocas,Animation,Family
+580,Movie 43,Comedy,Placeholder
+581,Arbitrage,Drama,Thriller
+582,Beasts of the Southern Wild,Drama,Fantasy
+583,The Butler,Drama,Placeholder
+584,Den skaldede frisør,Comedy,Romance
+585,Silent Hill - Revelation 3D,Thriller,Horror
+586,Parker,Action,Crime
+587,Deadfall,Crime,Drama
+588,August: Osage County,Comedy,Drama
+589,Pain and Gain,Thriller,Crime
+590,Tesis sobre um homicídio,Mystery,Thriller
+591,"Som ao redor, O",Thriller,Drama
+592,The Master,Drama,Placeholder
+593,The Avengers,Science Fiction,Action
+594,The Twilight Saga: Breaking Down - The Final,Placeholder,Placeholder
+595,Ice Age: Continental Drift,Animation,Comedy
+596,The Amazing Spider-Man,Action,Adventure
+597,Madagascar 3: Europe Most Wanted,Animation,Family
+598,The Dark Knight Rises,Action,Crime
+599,Alvin and the Chipmunks: Chipwire,Placeholder,Placeholder
+600,Brave,Animation,Adventure
+601,Até que a sorte nos separe,Comedy,Placeholder
+602,The Expendables 2,Action,Adventure
+603,Men in Black 3,Action,Comedy
+604,Hotel Transylvania,Animation,Comedy
+605,Warth of the Titans,Placeholder,Placeholder
+606,Skyfall,Action,Adventure
+607,The Hobbit: An Unexpected Journey,Adventure,Fantasy
+608,Ghost Rider: Spirit of Vengeance,Action,Fantasy
+609,E aí... comeu?,Comedy,Placeholder
+610,Snow White and the Huntsman,Adventure,Fantasy
+611,Sherlock Holmes: A Game of Shadows,Adventure,Action
+612,Rise of the Guardians,Animation,Family
+613,Immortals,Fantasy,Action
+614,OS Penetras,Comedy,Placeholder
+615,Jack and Jill,Comedy,Placeholder
+616,Resident Evil: Retribution,Action,Horror
+617,The Hunger Games,Science Fiction,Adventure
+618,The Adventures of Tintin: The Secret of the Unicorn,Adventure,Animation
+619,Ted,Comedy,Fantasy
+620,"Mirror, Mirror",Adventure,Comedy
+621,American Reunion,Comedy,Placeholder
+622,"Gonzaga, de pai para filho",Placeholder,Placeholder
+623,Prometheus,Science Fiction,Adventure
+624,Hugo - 3D,Adventure,Drama
+625,Mission Impossible - Ghost Protocol,Action,Thriller
+626,Intouchables,Drama,Comedy
+627,John Carter,Action,Adventure
+628,Paranormal Activity 4,Horror,Placeholder
+629,Abraham Lincoln: Vampire Hunter,Action,Fantasy
+630,Total Recall,Action,Science Fiction
+631,Life of Pi,Adventure,Drama
+632,Journey 2: The Mysterious Island,Adventure,Action
+633,Puss in Boots,Action,Adventure
+634,Taken 2,Action,Crime
+635,This Means War,Action,Comedy
+636,Dark Shadows,Comedy,Fantasy
+637,Titanic 3D,Documentary,Placeholder
+638,Dr. Seuss The Lorax,Animation,Family
+639,Underworld Awakening,Fantasy,Action
+640,"AS Aventuras de Agamenon, o repórter",Comedy,Placeholder
+641,To Rome With Love,Romance,Comedy
+642,The Iron Lady,History,Drama
+643,Battleship,Thriller,Action
+644,The Girl with the Dragon Tattoo,Thriller,Crime
+645,Hope Springs,Drama,Comedy
+646,The Descendants,Comedy,Drama
+647,The Dictator,Comedy,Placeholder
+648,De pernas pro ar 2,Comedy,Romance
+649,The Devil Inside,Thriller,Horror
+650,The Possession,Horror,Thriller
+651,Tinker Bell,Animation,Family
+652,The Pirates! Band of Misfits,Animation,Adventure
+653,Totalmente inocentes,Placeholder,Placeholder
+654,What To Expect When You?re Expecting,Romance,Comedy
+655,The Bourne Legacy,Action,Thriller
+656,Looper,Action,Thriller
+657,Sinister,Horror,Thriller
+658,The Impossible,Thriller,Drama
+659,The Woman in Black,Drama,Horror
+660,ParaNorman,Family,Animation
+661,The Artist,Drama,Comedy
+662,Paraísos artificiais,Drama,Placeholder
+663,Xingu,Drama,Placeholder
+664,E a vida continua...,Drama,Placeholder
+665,Argo,Drama,Thriller
+666,Kids 4: All the Time in the World,Family,Comedy
+667,Frankenweenie,Animation,Comedy
+668,eua,Drama,Placeholder
+669,2Coelhos,Placeholder,Placeholder
+670,Outback,Animation,Adventure
+671,On The Road,Adventure,Drama
+672,One For The Money,Action,Comedy
+673,The Vow,Drama,Romance
+674,War Horse,Drama,War
+675,Man on a Ledge,Action,Thriller
+676,The Darkest Hour,Horror,Action
+677,The Reef: High Tide,Animation,Family
+678,Chernobyl Diaries,Horror,Thriller
+679,The Raven,Crime,Thriller
+680,Billi Pig,Comedy,Placeholder
+681,21 Jump Street,Action,Comedy
+682,We Bought a Zoo,Drama,Comedy
+683,A Dangerous Method,Drama,Thriller
+684,Star Wars Episode I - The Phantom Menace,Adventure,Action
+685,Get the Gringo,Action,Thriller
+686,Finding Nemo 3D,Animation,Family
+687,Katy Perry: Part of Me,Documentary,Music
+688,The Lucky One,Drama,Romance
+689,Chronicle,Science Fiction,Drama
+690,Nader az Simin,Drama,Placeholder
+691,Destiny Road,Placeholder,Placeholder
+692,The Beauty and The Beast 3D,Placeholder,Placeholder
+693,Breaking Wind,Horror,Comedy
+694,House at the End of the Street,Horror,Thriller
+695,Seeking Justice,Action,Drama
+696,Diary of a Wimpy Kid: Dog Days,Comedy,Family
+697,"Raul Seixas: O início, o fim e o meio",Placeholder,Placeholder
+698,The Grey,Drama,Thriller
+699,O Diário de Tati,Comedy,Placeholder
+700,Killing Them Softly,Crime,Thriller
+701,Extremely Loud and Incredibly Close,Drama,Placeholder
+702,"Tinker, Tailor, Soldier, Spy",Drama,Thriller
+703,360,Drama,Romance
+704,Gone,Drama,Thriller
+705,Pina,Documentary,Placeholder
+706,The Best Exotic Marigold Hotel,Drama,Comedy
+707,Bachelorette,Comedy,Romance
+708,J. Edgar,Drama,Crime
+709,"Beira do caminho, À",Drama,Placeholder
+710,The Help,Drama,Placeholder
+711,The Watch,Action,Comedy
+712,Drive,Drama,Action
+713,Lawless,Crime,Drama
+714,Magic Mike,Drama,Comedy
+715,Dredd,Action,Science Fiction
+716,My Week With Marilyn,Drama,Placeholder
+717,Reis e ratos,Drama,Comedy
+718,Arbitrage,Drama,Thriller
+719,Et si on vivait tous ensemble?,Comedy,Drama
+720,Moneyball,Drama,Placeholder
+721,The Ides of March,Drama,Placeholder
+722,Habemus Papam,Drama,Comedy
+723,Shame,Drama,Placeholder
+724,Carnage,Comedy,Drama
+725,Red Lights,Thriller,Placeholder
+726,Heleno,Drama,Documentary
+727,Haywire,Action,Thriller
+728,La delicatesse,Drama,Comedy
+729,Alex Cross,Action,Thriller
+730,Rock of Ages,Comedy,Drama
+731,The Rum Diary,Drama,Comedy
+732,"Musica segundo Tom Jobim, A",Documentary,Music
+733,El Baile de la Victoria,Drama,Placeholder
+734,Tropicália,Music,Documentary
+735,Project X,Comedy,Crime
+736,Friends with Kids,Comedy,Romance
+737,The Perks of Being a Wallflower,Drama,Placeholder
+738,Trouble with the Curve,Drama,Romance
+739,End of Watch,Crime,Drama
+740,Tower Heist,Action,Comedy
+741,Like Water,Documentary,Placeholder
+742,The Flowers of War,Drama,History
+743,RIO,Animation,Adventure
+744,THE TWILIGHT SAGA: BREAKING DAWN - PART 1,Adventure,Fantasy
+745,HARRY POTTER AND THE DEATHLY HALLOWS - PART 2,Family,Fantasy
+746,THE SMURFS,Animation,Family
+747,PIRATES OF THE CARIBBEAN - ON STRANGER TIDES,Adventure,Action
+748,TANGLED,Animation,Family
+749,PUSS IN BOOTS,Action,Adventure
+750,TRANSFORMERS: DARK OF THE MOON,Action,Science Fiction
+751,CARS 2,Animation,Family
+752,FAST FIVE,Action,Thriller
+753,CAPTAIN AMERICA: THE FIRST AVENGER,Action,Adventure
+754,KUNG FU PANDA 2,Animation,Family
+755,THOR,Adventure,Fantasy
+756,CILADA.COM,Comedy,Romance
+757,DE PERNAS PRO AR,Comedy,Placeholder
+758,THE HANGOVER 2,Comedy,Placeholder
+759,X-MEN: FIRST CLASS,Action,Science Fiction
+760,RISE OF THE PLANET OF THE APES,Thriller,Action
+761,BRUNA SURFISTINHA,Drama,Placeholder
+762,JUST GO WITH IT,Comedy,Romance
+763,ASSALTO AO BANCO CENTRAL,Crime,Drama
+764,MR. POPPER'S PENGUINS,Comedy,Family
+765,GREEN LANTERN,Adventure,Action
+766,THE TOURIST,Action,Thriller
+767,THE THREE MUSKETEERS 3D,Placeholder,Placeholder
+768,REAL STEEL,Action,Science Fiction
+769,BLACK SWAN,Drama,Thriller
+770,GNOMEO & JULIET,Animation,Family
+771,SEASON OF THE WITCH,Adventure,Fantasy
+772,O PALHAÇO,Comedy,Drama
+773,GULLIVER'S TRAVELS,Comedy,Adventure
+774,MIDNIGHT IN PARIS,Fantasy,Comedy
+775,YOGI BEAR 3D,Comedy,Family
+776,FRIENDS WITH BENEFITS,Romance,Comedy
+777,O HOMEM DO FUTURO,Comedy,Fantasy
+778,THE KING'S SPEECH,Drama,History
+779,ABDUCTION,Thriller,Action
+780,QUALQUER GATO VIRA-LATA,Romance,Comedy
+781,FINAL DESTINATION 5,Horror,Mystery
+782,MISSION IMPOSSIBLE - GHOST PROTOCOL,Action,Thriller
+783,PARANORMAL ACTIVITY 3,Horror,Placeholder
+784,THE ZOOKEEPER,Drama,History
+785,SANCTUM,Action,Thriller
+786,CONAN THE BARBARIAN,Adventure,Fantasy
+787,LITTLE FOCKERS,Comedy,Romance
+788,THE GREEN HORNET,Action,Crime
+789,RANGO,Animation,Comedy
+790,HAPPY FEET 2,Animation,Comedy
+791,SCREAM 4,Horror,Mystery
+792,PRIEST,Fantasy,Horror
+793,BATTLE: LOS ANGELES,Action,Science Fiction
+794,BAD TEACHER,Comedy,Placeholder
+795,THE CRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER,Placeholder,Placeholder
+796,THE RITE,Drama,Thriller
+797,HEREAFTER,Drama,Fantasy
+798,VIPS,Drama,Placeholder
+799,11-11-11,Documentary,History
+800,I AM NUMBER FOUR,Action,Thriller
+801,NO STRINGS ATTACHED,Comedy,Romance
+802,HOODWINKED 2: HOOD VS EVIL,Placeholder,Placeholder
+803,ARTHUR CHRISTMAS,Drama,Animation
+804,"BIG MOMMAS: LIKE FATHER, LIKE SON",Crime,Comedy
+805,TRON:LEGACY,Placeholder,Placeholder
+806,JUSTIN BIEBER: NEVER SAY NEVER,Documentary,Music
+807,CONTAGION,Drama,Thriller
+808,UNSTOPPABLE,Action,Thriller
+809,LA PIEL QUE HABITO,Drama,Horror
+810,COWBOYS & ALIENS,Action,Science Fiction
+811,HORRIBLE BOSSES,Comedy,Crime
+812,AS MÃES DE CHICO XAVIER,Drama,Placeholder
+813,SUPER 8,Thriller,Science Fiction
+814,IMMORTALS,Fantasy,Action
+815,LARRY CROWNE,Comedy,Romance
+816,IN TIME,Action,Thriller
+817,THE LION KING 3D,Placeholder,Placeholder
+818,JOHNNY ENGLISH REBORN,Crime,Adventure
+819,THE MUPPETS,Comedy,Family
+820,NEW YEAR'S EVE,Comedy,Romance
+821,RED HIDING HOOD,Placeholder,Placeholder
+822,DRIVE ANGRY,Fantasy,Thriller
+823,TOWER HEIST,Action,Comedy
+824,THE KILLER ELITE,Crime,Action
+825,THE TREE OF LIFE,Drama,Fantasy
+826,TRUE GRIT,Drama,Adventure
+827,TRESPASS,Crime,Drama
+828,KONFERENZ DER TIERE,Animation,Family
+829,O FILME DOS ESPÍRITOS,Drama,Placeholder
+830,DOLPHIN TALE,Drama,Family
+831,LIMITLESS,Thriller,Mystery
+832,LOVE AND OTHER DRUGS,Drama,Comedy
+833,SOMETHING BORROWED,Comedy,Drama
+834,"CRAZY, STUPID, LOVE",Comedy,Drama
+835,THE CHANGE UP,Comedy,Placeholder
+836,HO,Comedy,Drama
+837,UM CUENTO CHINO,Comedy,Placeholder
+838,UNKNOWN,Action,Mystery
+839,FRIGHT NIGHT,Horror,Comedy
+840,DESENROLA,Romance,Comedy
+841,DREAM HOUSE,Drama,Thriller
+842,THE NEXT THREE DAYS,Romance,Drama
+843,APOLLO 18,Horror,Thriller
+844,SHARK NIGHT 3D,Horror,Thriller
+845,WATER FOR ELEPHANTS,Drama,Romance
+846,WE BOUGHT A ZOO,Drama,Comedy
+847,MEGAMIND,Animation,Action
+848,TOP CAT,Comedy,Animation
+849,HALL PASS,Comedy,Romance
+850,THE ADJUSTMENT BUREAU,Science Fiction,Thriller
+851,127 HOURS,Adventure,Drama
+852,THE SOCIAL NETWORK,Drama,Placeholder
+853,I DONT KNOW HOW SHE DOES IT,Romance,Comedy
+854,SOURCE CODE,Thriller,Science Fiction
+855,SUCKER PUNCH,Action,Fantasy
+856,THE FIGHTER,Drama,Placeholder
+857,ONDE ESTÁ A FELICIDADE?,Placeholder,Placeholder
+858,INSIDIOUS,Horror,Thriller
+859,MORNING GLORY,Comedy,Drama
+860,ACTIVITY: TOKYO NIGHT,Horror,Thriller
+861,HOW DO YOU KNOW,Comedy,Drama
+862,MELANCHOLIA,Drama,Science Fiction
+863,CAPITÃES DA AREIA,Adventure,Drama
+864,HARRY POTTER AND THE DEATHLY HALLOWS - PART 1,Adventure,Fantasy
+865,SAMMY ADVENTURES,Animation,Family
+866,WHAT´S YOUR NUMBER?,Comedy,Romance
+867,BRIDESMAIDS,Comedy,Romance
+868,ONE DAY,Drama,Romance
+869,"NÃO SE PREOCUPE, NADA VAI DAR CERTO",Comedy,Placeholder
+870,COPIE CONFORME,Drama,Romance
+871,DIARY OF A WIMPY KID: RODRICK RULES,Family,Comedy
+872,POTICHE,Comedy,Placeholder
+873,MUITA CALMA NESSA HORA,Comedy,Placeholder
+874,THE IDES OF MARCH,Drama,Placeholder
+875,BLUE VALENTINE,Drama,Romance
+876,FAIR GAME,Action,Thriller
+877,BIUTIFUL,Drama,Placeholder
+878,FAMÍLIA VENDE TUDO,Comedy,Placeholder
+879,DONT BE AFRAID OF THE DARK,Fantasy,Horror
+880,BRASIL ANIMADO 3D,Animation,Comedy
+881,THE LINCOLN LAWYER,Crime,Drama
+882,LE GAMIN AU VÉLO,Drama,Placeholder
+883,WINNIE THE POOH,Animation,Family
+884,A LITTLE BIT OF HEAVEN,Comedy,Drama
+885,MEDIANERAS,Drama,Romance
+886,LA TÊTE EM FRICHE,Placeholder,Placeholder
+887,THE MECHANIC,Action,Thriller
+888,THE RESIDENT,Thriller,Mystery
+889,FLYPAPER,Mystery,Comedy
+890,BURLESQUE,Drama,Romance
+891,SOMEWHERE,Comedy,Drama
+892,DES HOMMES ET DES DIEUX,Drama,History
