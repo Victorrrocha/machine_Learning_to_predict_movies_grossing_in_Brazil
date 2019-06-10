@@ -1,4 +1,4 @@
-﻿colocação,título_brasileiro,título_original,distribuidora,renda,publico,salas_abertura,estreia
+colocação,título_brasileiro,título_original,distribuidora,renda,publico,salas_abertura,estreia
 1,Velozes e furiosos 8,The Fate of the Furious,Universal,133420000,8504737,1512,2017-04-13
 2,Liga da Justiça,Justice league,Warner,131218000,8416544,1582,2017-11-16
 3,A Bela e a Fera,Beauty and the Beast,Disney,130098000,8309801,1399,2017-03-16
@@ -57,7 +57,7 @@
 56,Beleza oculta,Collateral beauty,Warner,8904940,512613,271,2017-01-26
 57,Rogue One - Uma história Star Wars,Rogue One: A Star Wars Story,Disney,8870690,536160,1379,2016-12-15
 58,Baywatch - S.O.S. Malibu,Baywatch,Paramount,8763480,654988,446,2017-06-15
-59,Aventuras do Capitão Cueca - O filme,Captain underpants: The First Epic Movie,Fox,8633560,571543,582,2017-12-10
+59,Aventuras do Capitão Cueca,Captain underpants: The First Epic Movie,Fox,8633560,571543,582,2017-12-10
 60,O circulo,The Circle,Imagem,8317840,475257,413,2017-06-22
 61,Mãe!,"mother!,",Paramount,8166980,517179,332,2017-09-21
 62,"Fala sério, mãe!","Fala sério, mãe!",DTF/Paris,8090740,599579,681,2017-12-28
@@ -77,7 +77,7 @@
 76,Moonlight - Sob a luz do luar,Moonlight,Diamond Films,5851280,341969,63,2017-02-23
 77,Atômica,Atomic blonde,Universal,5831110,376446,502,2017-08-31
 78,Corra!,Get Out,Universal,5672670,382879,444,2017-05-18
-79,Os penetras 2 - Quem dá mais?,"Penetras 2 - Quem dá mais?, Os",H2O/Universal,5614830,404875,444,2017-01-19
+79,Os penetras 2,"Penetras 2 - Quem dá mais?, Os",H2O/Universal,5614830,404875,444,2017-01-19
 80,Vida,Life,Sony,5330410,313426,262,2017-04-20
 81,Internet - o filme,Internet - o filme,DTF/Paris,4911240,379103,414,2017-02-23
 82,Lego Ninjago - O filme,The Lego Ninjago movie,Warner,4869560,337005,713,2017-09-28
@@ -152,10 +152,10 @@
 3,Minions,Minions,Universal,119801000,8921138,1137,2015-06-25
 4,Jurassic World - O mundo dos dinossauros,Jurassic World,Universal,90700000,6380062,1056,2015-11-06
 5,Cinquenta tons de cinza,Fifty Shades of Grey,Universal,87570600,6686340,1199,2015-12-02
-6,Star Wars: Episódio VII - O despertar da força,Star Wars: Episode VII,Disney,74167600,4589744,1504,2015-12-17
+6,Star Wars: Episódio VII,Star Wars: Episode VII,Disney,74167600,4589744,1504,2015-12-17
 7,Jogos Vorazes: A esperança - O final,The Hunger Games - Mockinjay Part 2,Paris,62923300,4344687,1274,2015-11-19
 8,Cinderela,Cinderella,Disney,50086600,4200863,927,2015-03-26
-9,Bob Esponja - Um herói fora d´água,Sponge Bob Square Pants 2,Paramount,47957700,3719937,796,2015-05-02
+9,Bob Esponja um heroi fora d'agua,Sponge Bob Square Pants 2,Paramount,47957700,3719937,796,2015-05-02
 10,Loucas pra casar,Loucas pra casar,DTF/Paris,45888600,3779702,605,2015-08-01
 11,Divertida mente,The Inside Out,Disney,45751400,3783023,877,2015-06-18
 12,Vai que cola - O filme,Vai que cola - O filme,H2O Films,41910200,3317275,637,2015-01-10
@@ -247,11 +247,11 @@
 98,Magic Mike XXL,Magic Mike XXL,Warner,2749840,204557,209,2015-07-30
 99,A travessia,The Walk,Sony,2625950,141231,257,2015-08-10
 100,Carga explosiva - O legado,The Transporter Refueled,California,2612200,205078,276,2015-10-09
-101,"Forca, A",Gallows,Warner,2593110,201860,158,2015-07-23
-102,"Visita, A",The visit,Universal,2555600,209948,222,2015-11-26
+101,A forca,Gallows,Warner,2593110,201860,158,2015-07-23
+102,A visita,The visit,Universal,2555600,209948,222,2015-11-26
 103,Relatos Selvagens,Relatos Salvajes,Warner,2262380,471732,89,2014-10-23
 104,Samba,Samba,California,2119980,134278,66,2015-09-07
-105,Ricki and the Flash - De volta pra casa,Ricki and the Flash,Sony,2112880,119847,146,2015-03-09
+105,Ricki and the Flash,Ricki and the Flash,Sony,2112880,119847,146,2015-03-09
 106,Jogada de mestre,Kidnapping Mr. Heineken,Imagem,2091860,109878,72,2015-07-30
 107,Que mal eu fiz a Deus?,Qu'est-e qu'on a fait a bon dieu?,Europa,2019590,106713,111,2015-06-08
 108,Divã a 2,Divã a 2,DTF/Paris,1986010,164987,315,2015-05-14
@@ -290,7 +290,7 @@
 141,O imperador,Outcast,Imagem,1017750,84120,104,2015-12-02
 142,O abutre,Nightcrawler,Diamond,1015800,120633,57,2014-12-18
 143,O garoto da casa ao lado,The boy next door,Universal,996596,78561,140,2015-03-26
-144,Minúsculos - O filme 3D,Minuscule - La Vallée des Fourmis Perdues,Paris,972971,74685,169,2015-01-22
+144,Minúsculos,Minuscule - La Vallée des Fourmis Perdues,Paris,972971,74685,169,2015-01-22
 145,Annie,Annie,Sony,966105,84928,88,2015-12-02
 1,Malévola,Maleficent,Disney,74227800,5795385,719,2014-05-29
 2,A culpa e das estrelas,The Fault in Our Stars,Fox,70124600,6228678,791,2014-05-06
@@ -310,7 +310,7 @@
 16,300 - A ascensão do Imperio,300 - Rise of an Empire,Warner,40673600,2850866,772,2014-07-03
 17,Guardioes da galáxia,Guardians of the Galaxy,Disney,38126000,2870004,917,2014-07-31
 18,Até que a sorte nos separe 2,Até que a sorte nos separe 2,Downtown/Paris,36112300,3202039,776,2013-12-27
-19,Débi & Lóide 2,Dumb and Dumber 2,Imagem,35894900,3110100,667,2014-11-13
+19,Debi e Loide 2,Dumb and Dumber 2,Imagem,35894900,3110100,667,2014-11-13
 20,RoboCop,RoboCop,Sony,33523900,2834676,734,2014-02-21
 21,Hércules,Hercules,Paramount,32881500,2437695,675,2014-04-09
 22,Drácula - A história nunca contada,Dracula Untold,Universal,32157200,2725972,511,2014-10-23
@@ -319,7 +319,7 @@
 25,Êxodo - Deuses e reis,Exodus - Gods and Kings,Fox,23741100,1571317,901,2014-12-25
 26,Juntos e misturados,Blended,Warner,23149300,1983699,378,2014-07-17
 27,Lucy,Lucy,Universal,21764700,1789100,350,2014-08-28
-28,Os homens sao de Marte... e é para lá que eu vou,Os homens sao de Marte... e é para lá que eu vou,Downtown/Paris,21630100,1806937,465,2014-05-29
+28,Os homens sao de Marte e é para lá que eu vou,Os homens sao de Marte... e é para lá que eu vou,Downtown/Paris,21630100,1806937,465,2014-05-29
 29,S.O.S Mulheres ao mar,S.O.S Mulheres ao mar,Disney,20834125,1788813,423,2014-03-20
 30,Godzilla,Godzilla,Warner,18031000,1324900,741,2014-05-15
 31,Maze Runner - Correr ou morrer,The Maze Runner,Fox,17939800,1565714,344,2014-09-18
@@ -357,7 +357,7 @@
 63,12 anos de escravidão,12 Years a Slave,Disney,7031750,504818,77,2014-02-21
 64,Quero matar meu chefe 2,Horrible Bosses 2,Warner,6969080,569453,345,2014-04-12
 65,O apocalipse,Left Behind,Imagem,6914420,636718,233,2014-10-23
-66,A lenda de Oz 3D,Legends of Oz: Dorothy s Return,Paris,6741770,541258,423,2014-09-10
+66,A lenda de Oz,Legends of Oz: Dorothy s Return,Paris,6741770,541258,423,2014-09-10
 67,O doador de memórias,The Giver,Paris,6681330,575194,341,2014-11-09
 68,Caçadores de obras-primas,The Monuments Men,Fox,6645020,519039,246,2014-02-14
 69,Se eu ficar,If I Stay,Warner,6462790,577354,226,2014-04-09
@@ -454,7 +454,7 @@
 10,Jogos Vorazes - Em chamas,The Hunger Games - Catching Fire,Paris,39709600,3534870,975,2013-11-15
 11,Universidade Monstros,Monsters University,Disney,37138100,3311150,832,2013-06-21
 12,Homem de Aço,Man of Steel,Warner,36132700,2747384,780,2013-12-07
-13,"Se beber, nao case! - Parte 3",The Hangover - Part 3,Warner,35244900,3222572,559,2013-05-30
+13,Se beber não case 3,The Hangover - Part 3,Warner,35244900,3222572,559,2013-05-30
 14,Meu passado me condena,Meu passado me condena,Downtown/Paris,34942300,3167246,373,2013-10-25
 15,O hobbit - A desolação de Smaug,The Hobbit - The Desolation of Smaug,Warner,33774600,2458468,1012,2013-12-13
 16,Os Croods,The Croods,Fox,33680500,2793478,739,2013-03-22
@@ -496,7 +496,7 @@
 52,O cavaleiro solitário,The Lone Ranger,Disney,9391660,879502,410,2013-12-07
 53,Até que a sorte nos separe 2,Até que a sorte nos separe 2,Downtown/Paris,9205970,782661,776,2013-12-27
 54,Dezesseis luas,Beautiful Creatures,Paris,8833940,859370,441,2013-01-03
-55,"Hobbit: Uma jornada inesperada, O",The Hobbit: An Unexpected Journey,Warner,8346270,670385,995,2012-12-14
+55,O hobbit: Uma jornada inesperada,The Hobbit: An Unexpected Journey,Warner,8346270,670385,995,2012-12-14
 56,O ataque,White House Down,Sony,8016210,722687,355,2013-06-09
 57,As bem-armadas,The Heat,Fox,7890660,733605,302,2013-09-20
 58,A última viagem a Vegas,Last Vegas,Paris,7728950,640849,321,2013-06-12
@@ -528,8 +528,8 @@
 84,Serra Pelada,Serra Pelada,Warner,4230410,407914,330,2013-10-18
 85,A morte do demônio,Evil Dead,Sony,4061380,355039,100,2013-04-19
 86,Sobrenatural: capítulo 2,Insidious: Chapter 2,Sony,4060970,369225,220,2013-11-22
-87,"Penetras, Os","Penetras, Os",Warner,3993140,402226,316,2012-11-30
-88,"Impossível, O",The Impossible,Paris,3917010,353690,297,2012-12-21
+87,Os penetras,"Penetras, Os",Warner,3993140,402226,316,2012-11-30
+88,O impossível,The Impossible,Paris,3917010,353690,297,2012-12-21
 89,Um time show de bola,Metegol,Universal,3865760,340123,490,2013-11-29
 90,Dragon Ball Z - A batalha dos deuses,Dragon Ball Z - Battle of God,Diamond,3745760,400987,287,2013-11-10
 91,A busca,"Busca, A",Downtown/Paris,3690330,351454,148,2013-03-15
@@ -577,10 +577,10 @@
 133,Um porto seguro,Safe Haven,Imagem,1422470,122687,146,2013-04-19
 134,Questão de tempo,About Time,Universal,1285941,101066,127,2013-12-20
 135,Chamada de emergência,The Call,Diamond,1254250,100359,140,2013-12-04
-136,"Origem dos Guardiões, A",Rise of the Guardians,Paramount,1240630,143614,645,2012-11-30
+136,A ORIGEM DOS GUARDIÕES,Rise of the Guardians,Paramount,1240630,143614,645,2012-11-30
 137,Minhocas,Minhocas,Fox,1214440,116898,122,2013-12-20
 138,Para maiores,Movie 43,Imagem,1196270,111397,81,2013-08-02
-139,"Negociaçao, A",Arbitrage,Imagem,1196010,93446,58,2012-12-21
+139,A negociação,Arbitrage,Imagem,1196010,93446,58,2012-12-21
 140,Indomável sonhadora,Beasts of the Southern Wild,Imagem,1160940,95290,57,2013-02-22
 141,O mordomo da Casa Branca,The Butler,Diamond,1106250,69104,42,2013-01-11
 142,Amor é tudo o que você precisa,Den skaldede frisør,H2O,1101910,91257,91,2013-08-03
@@ -644,9 +644,9 @@
 50,A DAMA DE FERRO,The Iron Lady,Paris,7894891,669030,126,2012-02-17
 51,BATTLESHIP - A BATALHA DOS MARES,Battleship,Universal,7835972,839987,503,2012-11-05
 52,MILLENNIUM - OS HOMENS QUE NÃO AMAVAM AS MULHERES,The Girl with the Dragon Tattoo,Sony,7258421,681835,251,2012-01-27
-53,"DIVÃ PARA DOIS, UM",Hope Springs,Imagem,7219106,591898,152,2012-08-17
-54,"DESCENDENTES, OS",The Descendants,Fox,6825410,593797,152,2012-01-27
-55,"DITADOR, O",The Dictator,Paramount,6499518,625119,244,2012-08-24
+53,UM DIVÃ PARA DOIS,Hope Springs,Imagem,7219106,591898,152,2012-08-17
+54,OS DESCENDENTES,The Descendants,Fox,6825410,593797,152,2012-01-27
+55,O DITADOR,The Dictator,Paramount,6499518,625119,244,2012-08-24
 56,DE PERNAS PRO AR 2,De pernas pro ar 2,Downtown/Paris/RioFilme,6360050,563543,710,2012-12-28
 57,FILHA DO MAL,The Devil Inside,Paramount,5847407,586306,275,2012-03-02
 58,POSSESSÃO,The Possession,Paris,5786333,550573,196,2012-02-11
@@ -683,15 +683,15 @@
 89,ANJOS DA LEI,21 Jump Street,Sony,2409761,246670,202,2012-04-05
 90,COMPRAMOS UM ZOOLÓGICO,We Bought a Zoo,Fox,2406735,301422,223,2011-12-23
 91,UM MÉTODO PERIGOSO,A Dangerous Method,Imagem,2378755,204638,39,2012-03-30
-92,STAR WARS: EP 1,Star Wars Episode I - The Phantom Menace,Fox,2364855,163946,184,2012-10-02
+92,STAR WARS: EPISODIO 1,Star Wars Episode I - The Phantom Menace,Fox,2364855,163946,184,2012-10-02
 93,PLANO DE FUGA,Get the Gringo,Imagem,2099147,197408,190,2012-05-18
-94,PROCURANDO NEMO 3D,Finding Nemo 3D,Disney,2084267,151748,224,2012-12-10
+94,PROCURANDO NEMO,Finding Nemo 3D,Disney,2084267,151748,224,2012-12-10
 95,KATY PERRY: PART OF ME,Katy Perry: Part of Me,Paramount,2050012,150655,154,2012-03-08
 96,UM HOMEM DE SORTE,The Lucky One,Warner,2047703,200600,151,2012-04-05
 97,PODER SEM LIMITES,Chronicle,Fox,2039497,207099,158,2012-02-03
 98,A SEPARAÇÃO,Nader az Simin,Imovision,1981358,175747,15,2012-01-20
 99,"TRêS HISTÓRIAS, UM DESTINO",Destiny Road,Serendip / Art,1978584,227226,51,2012-02-11
-100,A BELA E A FERA 3D,The Beauty and The Beast 3D,Disney,1940067,140341,115,2012-03-02
+100,A BELA E A FERA,The Beauty and The Beast 3D,Disney,1940067,140341,115,2012-03-02
 101,A SAGA MOLUSCO: ANOITECER,Breaking Wind,Playarte,1872447,202154,192,2012-02-03
 102,A ÚLTIMA CASA DA RUA,House at the End of the Street,Paris,1863554,183883,117,2012-07-12
 103,O PACTO,Seeking Justice,Imagem,1859832,187167,193,2012-09-03
@@ -794,7 +794,7 @@
 50,PADRE,PRIEST,SONY,7380628,634625,281,2011-05-13
 51,INVASÃO DO MUNDO: BATALHA DE LOS ANGELES,BATTLE: LOS ANGELES,SONY,7030580,766423,263,2011-03-18
 52,PROFESSORA SEM CLASSE,BAD TEACHER,SONY,7015151,749741,188,2011-08-19
-53,AS CRÔNICAS DE NÁRNIA: A VIAGEM DO PEREGRINO...,THE CRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER,FOX,6990311,802084,556,2010-10-12
+53,AS CRÔNICAS DE NÁRNIA: A VIAGEM DO PEREGRINO,THE CRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER,FOX,6990311,802084,556,2010-10-12
 54,O RITUAL,THE RITE,WARNER,6428000,718381,151,2011-11-02
 55,ALÉM DA VIDA,HEREAFTER,WARNER,6149221,581747,100,2011-07-01
 56,VIPS,VIPS,UNIVERSAL,5870175,597905,175,2011-03-25
@@ -803,7 +803,7 @@
 59,SEXO SEM COMPROMISSO,NO STRINGS ATTACHED,PARAMOUNT,5539860,572411,140,2011-03-18
 60,DEU A LOUCA NA CHAPEUZINHO 2,HOODWINKED 2: HOOD VS EVIL,IMAGEM,5365545,473872,256,2011-02-09
 61,OPERAÇÃO PRESENTE,ARTHUR CHRISTMAS,SONY,5154370,477609,241,2011-02-12
-62,VOVÕ...ZONA 3,"BIG MOMMAS: LIKE FATHER, LIKE SON",FOX,5113337,603713,117,2011-04-03
+62,VOVO ZONA 3,"BIG MOMMAS: LIKE FATHER, LIKE SON",FOX,5113337,603713,117,2011-04-03
 63,TRON: O LEGADO,TRON:LEGACY,DISNEY,5091253,455493,480,2010-12-17
 64,JUSTIN BIEBER: NEVER SAY NEVER,JUSTIN BIEBER: NEVER SAY NEVER,PARAMOUNT,5045614,449667,288,2011-02-25
 65,CONTÁGIO,CONTAGION,WARNER,4946325,475694,143,2011-10-28
@@ -863,14 +863,14 @@
 119,COMO VOCÊ SABE,HOW DO YOU KNOW,IMAGEM,1488922,136486,81,2011-04-29
 120,MELANCOLIA,MELANCHOLIA,CALIFORNIA,1481326,134868,32,2011-05-08
 121,CAPITÃES DA AREIA,CAPITÃES DA AREIA,IMAGEM,1478029,171065,115,2011-07-10
-122,HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 1,HARRY POTTER AND THE DEATHLY HALLOWS - PART 1,WARNER,1411195,172309,861,2010-11-19
+122,HARRY POTTER E AS RELÍQUIAS DA MORTE,HARRY POTTER AND THE DEATHLY HALLOWS - PART 1,WARNER,1411195,172309,861,2010-11-19
 123,AS AVENTURAS DE SAMMY,SAMMY ADVENTURES,PLAYARTE,1390483,135593,199,2011-01-28
 124,QUAL É O SEU NÚMERO?,WHAT´S YOUR NUMBER?,FOX,1314151,135717,70,2011-10-14
 125,MISSÃO MADRINHA DE CASAMENTO,BRIDESMAIDS,UNIVERSAL,1285869,132394,153,2011-09-23
 126,UM DIA,ONE DAY,UNIVERSAL,1284062,101304,41,2011-02-12
 127,"NÃO SE PREOCUPE, NADA VAI DAR CERTO","NÃO SE PREOCUPE, NADA VAI DAR CERTO",IMAGEM,1258504,143362,121,2011-05-08
 128,CÓPIA FIEL,COPIE CONFORME,IMOVISION,1227230,111964,9,2011-03-18
-129,O DIÁRIO DE UM BANANA 2: RODDICK É O CARA,DIARY OF A WIMPY KID: RODRICK RULES,FOX,1196726,164602,50,2011-09-16
+129,O DIÁRIO DE UM BANANA 2,DIARY OF A WIMPY KID: RODRICK RULES,FOX,1196726,164602,50,2011-09-16
 130,POTICHE: ESPOSA TROFÉI,POTICHE,IMOVISION,1165636,105342,38,2011-06-23
 131,MUITA CALMA NESSA HORA,MUITA CALMA NESSA HORA,EUR/RIOF,1145152,140435,176,2010-12-11
 132,TUPO PELO PODER,THE IDES OF MARCH,CALIFORNIA,1129705,96476,91,2011-12-23
